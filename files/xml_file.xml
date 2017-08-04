@@ -1,0 +1,4044 @@
+<example country="USA">
+ <example_head example_headId="al">
+  <name>CC</name>
+  <m mId="1">CC</m>
+  <markerId>
+   <markId type="d">9</markId>
+  </markerId>
+  <placards>
+   <placard>35643</placard>
+   <placard>35581</placard>
+   <placard>35653</placard>
+   <placard>35654</placard>
+   <placard>35585</placard>
+  </placards>
+  <location>PHL</location>
+  <lineup device="X">
+   <station gearId="32046">
+    <stop startdate="2014-09-22" module="1">001</stop>
+    <stop startdate="2017-02-09" module="2">999</stop>
+   </station>
+   <station gearId="11268">
+    <stop startdate="2014-09-22" module="1">003</stop>
+   </station>
+   <station gearId="23312">
+    <stop startdate="2014-09-22" module="1">004</stop>
+   </station>
+   <station gearId="12020">
+    <stop startdate="2014-09-22" module="1">005</stop>
+   </station>
+   <station gearId="88871">
+    <stop startdate="2014-09-22" module="1">006</stop>
+   </station>
+   <station gearId="32497">
+    <stop startdate="2014-09-22" module="1">008</stop>
+   </station>
+   <station gearId="11258">
+    <stop startdate="2014-09-22" module="1">009</stop>
+   </station>
+   <station gearId="11519">
+    <stop startdate="2014-09-22" module="1">010</stop>
+   </station>
+   <station gearId="11766">
+    <stop startdate="2014-09-22" module="1">011</stop>
+   </station>
+   <station gearId="11436">
+    <stop startdate="2014-09-22" module="1">012</stop>
+   </station>
+   <station gearId="91097">
+    <stop startdate="2015-06-30" module="1">014</stop>
+   </station>
+   <station gearId="34710">
+    <stop startdate="2014-09-22" module="1">015</stop>
+    <stop startdate="2014-09-22" module="2">322</stop>
+   </station>
+   <station gearId="18279">
+    <stop startdate="2014-09-22" module="1">016</stop>
+    <stop startdate="2014-09-22" module="2">204</stop>
+   </station>
+   <station gearId="17665">
+    <stop startdate="2014-09-22" module="1">017</stop>
+   </station>
+   <station gearId="11118">
+    <stop startdate="2014-09-22" module="1">019</stop>
+    <stop startdate="2014-09-22" module="2">200</stop>
+   </station>
+   <station gearId="12553">
+    <stop startdate="2014-09-22" module="2">022</stop>
+   </station>
+   <station gearId="10989">
+    <stop startdate="2014-09-22" module="2">023</stop>
+   </station>
+   <station gearId="18511">
+    <stop startdate="2014-09-22" expDate="2017-06-28" module="2">024</stop>
+   </station>
+   <station gearId="10918">
+    <stop startdate="2014-09-22" module="2">025</stop>
+   </station>
+   <station gearId="11158">
+    <stop startdate="2014-09-22" module="2">026</stop>
+   </station>
+   <station gearId="11867">
+    <stop startdate="2014-09-22" module="2">027</stop>
+   </station>
+   <station gearId="11164">
+    <stop startdate="2014-09-22" module="2">028</stop>
+   </station>
+   <station gearId="11207">
+    <stop startdate="2014-09-22" module="2">029</stop>
+   </station>
+   <station gearId="14321">
+    <stop startdate="2014-09-22" module="2">030</stop>
+   </station>
+   <station gearId="10179">
+    <stop startdate="2014-09-22" module="2">031</stop>
+    <stop startdate="2014-09-22" module="2">326</stop>
+   </station>
+   <station gearId="12444">
+    <stop startdate="2014-09-22" module="2">032</stop>
+    <stop startdate="2014-09-22" module="2">327</stop>
+   </station>
+   <station gearId="11129">
+    <stop startdate="2014-09-22" module="2">033</stop>
+    <stop startdate="2014-09-22" module="2">328</stop>
+   </station>
+   <station gearId="20789">
+    <stop startdate="2014-09-22" module="2">034</stop>
+    <stop startdate="2014-09-22" module="2">321</stop>
+   </station>
+   <station gearId="89535">
+    <stop startdate="2014-09-22" module="2">035</stop>
+    <stop startdate="2014-09-22" module="2">318</stop>
+   </station>
+   <station gearId="11218">
+    <stop startdate="2014-09-22" module="2">036</stop>
+   </station>
+   <station gearId="15952">
+    <stop startdate="2014-09-22" module="2">037</stop>
+    <stop startdate="2014-09-22" module="2">311</stop>
+   </station>
+   <station gearId="82541">
+    <stop startdate="2014-09-22" module="2">038</stop>
+    <stop startdate="2014-09-22" module="2">316</stop>
+   </station>
+   <station gearId="11187">
+    <stop startdate="2014-09-22" module="2">040</stop>
+   </station>
+   <station gearId="10139">
+    <stop startdate="2014-09-22" module="2">041</stop>
+   </station>
+   <station gearId="16300">
+    <stop startdate="2014-09-22" module="2">042</stop>
+   </station>
+   <station gearId="10142">
+    <stop startdate="2014-09-22" module="2">043</stop>
+   </station>
+   <station gearId="10145">
+    <stop startdate="2014-09-22" module="2">044</stop>
+   </station>
+   <station gearId="16374">
+    <stop startdate="2014-09-22" module="2">045</stop>
+   </station>
+   <station gearId="14771">
+    <stop startdate="2014-09-22" module="2">046</stop>
+   </station>
+   <station gearId="10153">
+    <stop startdate="2014-09-22" module="2">047</stop>
+   </station>
+   <station gearId="10035">
+    <stop startdate="2014-09-22" module="2">048</stop>
+   </station>
+   <station gearId="11150">
+    <stop startdate="2014-09-22" module="2">049</stop>
+   </station>
+   <station gearId="24959">
+    <stop startdate="2014-09-22" module="2">050</stop>
+   </station>
+   <station gearId="11180">
+    <stop startdate="2014-09-22" module="2">051</stop>
+   </station>
+   <station gearId="12574">
+    <stop startdate="2014-09-22" module="2">052</stop>
+   </station>
+   <station gearId="14902">
+    <stop startdate="2014-09-22" module="2">053</stop>
+   </station>
+   <station gearId="16331">
+    <stop startdate="2014-09-22" module="2">054</stop>
+   </station>
+   <station gearId="10093">
+    <stop startdate="2014-09-22" module="2">055</stop>
+   </station>
+   <station gearId="10171">
+    <stop startdate="2014-09-22" module="2">056</stop>
+   </station>
+   <station gearId="11006">
+    <stop startdate="2014-09-22" module="2">057</stop>
+   </station>
+   <station gearId="12131">
+    <stop startdate="2014-09-22" module="2">058</stop>
+    <stop startdate="2014-09-22" module="2">203</stop>
+   </station>
+   <station gearId="16123">
+    <stop startdate="2014-09-22" module="2">059</stop>
+   </station>
+   <station gearId="10021">
+    <stop startdate="2014-09-22" module="2">060</stop>
+   </station>
+   <station gearId="10051">
+    <stop startdate="2014-09-22" module="2">061</stop>
+   </station>
+   <station gearId="10138">
+    <stop startdate="2014-09-22" module="2">062</stop>
+   </station>
+   <station gearId="21484">
+    <stop startdate="2014-09-22" module="2">063</stop>
+   </station>
+   <station gearId="10057">
+    <stop startdate="2014-09-22" module="2">064</stop>
+   </station>
+   <station gearId="11097">
+    <stop startdate="2014-09-22" module="2">065</stop>
+   </station>
+   <station gearId="11163">
+    <stop startdate="2014-09-22" module="2">066</stop>
+   </station>
+   <station gearId="10149">
+    <stop startdate="2014-09-22" module="2">067</stop>
+   </station>
+   <station gearId="10986">
+    <stop startdate="2014-09-22" module="2">068</stop>
+   </station>
+   <station gearId="16361">
+    <stop startdate="2014-09-22" module="2">069</stop>
+    <stop startdate="2014-09-22" module="1">136</stop>
+   </station>
+   <station gearId="10183">
+    <stop startdate="2014-09-22" module="2">070</stop>
+    <stop startdate="2014-09-22" module="1">100</stop>
+   </station>
+   <station gearId="11066">
+    <stop startdate="2014-09-22" module="2">071</stop>
+    <stop startdate="2014-09-22" module="1">101</stop>
+   </station>
+   <station gearId="18774">
+    <stop startdate="2014-09-22" module="2">072</stop>
+   </station>
+   <station gearId="19026">
+    <stop startdate="2014-09-22" module="2">073</stop>
+    <stop startdate="2014-09-22" module="1">104</stop>
+   </station>
+   <station gearId="16715">
+    <stop startdate="2014-09-22" module="2">074</stop>
+   </station>
+   <station gearId="74796">
+    <stop startdate="2014-09-22" module="2">075</stop>
+    <stop startdate="2014-09-22" module="1">110</stop>
+   </station>
+   <station gearId="14767">
+    <stop startdate="2014-09-22" module="2">076</stop>
+    <stop startdate="2014-09-22" module="1">103</stop>
+   </station>
+   <station gearId="18284">
+    <stop startdate="2014-09-22" module="2">077</stop>
+    <stop startdate="2014-09-22" module="1">128</stop>
+   </station>
+   <station gearId="16615">
+    <stop startdate="2014-09-22" module="2">078</stop>
+    <stop startdate="2014-09-22" module="1">126</stop>
+   </station>
+   <station gearId="18822">
+    <stop startdate="2014-09-22" module="2">079</stop>
+    <stop startdate="2014-09-22" module="1">122</stop>
+   </station>
+   <station gearId="23388">
+    <stop startdate="2014-09-22" module="2">080</stop>
+   </station>
+   <station gearId="14909">
+    <stop startdate="2014-09-22" module="2">081</stop>
+   </station>
+   <station gearId="18544">
+    <stop startdate="2014-09-22" module="2">082</stop>
+    <stop startdate="2014-09-22" module="1">151</stop>
+   </station>
+   <station gearId="62079">
+    <stop startdate="2014-09-22" module="2">083</stop>
+    <stop startdate="2014-09-22" module="2">320</stop>
+   </station>
+   <station gearId="14899">
+    <stop startdate="2014-09-22" module="2">084</stop>
+    <stop startdate="2014-09-22" module="2">310</stop>
+   </station>
+   <station gearId="10162">
+    <stop startdate="2014-09-22" module="2">085</stop>
+   </station>
+   <station gearId="11221">
+    <stop startdate="2014-09-22" module="2">086</stop>
+    <stop startdate="2014-09-22" module="1">161</stop>
+   </station>
+   <station gearId="70387">
+    <stop startdate="2014-09-22" module="2">087</stop>
+    <stop startdate="2014-09-22" module="1">127</stop>
+   </station>
+   <station gearId="10201">
+    <stop startdate="2014-09-22" module="2">088</stop>
+    <stop startdate="2014-09-22" module="3">602</stop>
+   </station>
+   <station gearId="61522">
+    <stop startdate="2014-09-22" module="2">089</stop>
+    <stop startdate="2014-09-22" module="1">167</stop>
+   </station>
+   <station gearId="18480">
+    <stop startdate="2014-09-22" module="2">090</stop>
+    <stop startdate="2014-09-22" module="1">168</stop>
+   </station>
+   <station gearId="12852">
+    <stop startdate="2014-09-22" module="2">091</stop>
+    <stop startdate="2014-09-22" module="1">172</stop>
+   </station>
+   <station gearId="58649">
+    <stop startdate="2014-09-22" module="2">092</stop>
+    <stop startdate="2014-09-22" module="1">132</stop>
+   </station>
+   <station gearId="14988">
+    <stop startdate="2014-09-22" module="2">093</stop>
+    <stop startdate="2014-09-22" module="1">171</stop>
+   </station>
+   <station gearId="17927">
+    <stop startdate="2014-09-22" module="2">094</stop>
+    <stop startdate="2014-09-22" module="1">129</stop>
+   </station>
+   <station gearId="10161">
+    <stop startdate="2014-09-22" module="2">095</stop>
+   </station>
+   <station gearId="14755">
+    <stop startdate="2014-09-22" module="2">096</stop>
+    <stop startdate="2014-09-22" module="1">133</stop>
+   </station>
+   <station gearId="49751">
+    <stop startdate="2014-09-22" module="2">097</stop>
+    <stop startdate="2014-09-22" module="3">661</stop>
+   </station>
+   <station gearId="49767">
+    <stop startdate="2014-09-22" module="2">098</stop>
+    <stop startdate="2014-09-22" module="3">662</stop>
+   </station>
+   <station gearId="15295">
+    <stop startdate="2014-09-22" module="2">099</stop>
+    <stop startdate="2014-09-22" module="3">663</stop>
+   </station>
+   <station gearId="10188">
+    <stop startdate="2014-09-22" module="1">105</stop>
+   </station>
+   <station gearId="11069">
+    <stop startdate="2017-04-04" module="1">108</stop>
+   </station>
+   <station gearId="47540">
+    <stop startdate="2014-09-22" module="1">111</stop>
+   </station>
+   <station gearId="50338">
+    <stop startdate="2014-09-22" module="1">112</stop>
+   </station>
+   <station gearId="19211">
+    <stop startdate="2014-09-22" module="1">113</stop>
+   </station>
+   <station gearId="59036">
+    <stop startdate="2014-09-22" module="1">114</stop>
+   </station>
+   <station gearId="11007">
+    <stop startdate="2014-09-22" module="1">115</stop>
+   </station>
+   <station gearId="30420">
+    <stop startdate="2014-09-22" module="1">116</stop>
+   </station>
+   <station gearId="16618">
+    <stop startdate="2014-09-22" module="1">119</stop>
+   </station>
+   <station gearId="16834">
+    <stop startdate="2014-09-22" module="1">123</stop>
+   </station>
+   <station gearId="65799">
+    <stop startdate="2014-09-22" module="1">124</stop>
+   </station>
+   <station gearId="16616">
+    <stop startdate="2014-09-22" module="1">125</stop>
+   </station>
+   <station gearId="15807">
+    <stop startdate="2016-09-28" module="1">130</stop>
+   </station>
+   <station gearId="10269">
+    <stop startdate="2017-04-04" module="1">131</stop>
+   </station>
+   <station gearId="36844">
+    <stop startdate="2014-09-22" expDate="2017-06-19" module="1">134</stop>
+   </station>
+   <station gearId="89542">
+    <stop startdate="2017-06-19" module="1">134</stop>
+   </station>
+   <station gearId="66804">
+    <stop startdate="2014-09-22" module="1">135</stop>
+   </station>
+   <station gearId="30419">
+    <stop startdate="2014-09-22" module="1">137</stop>
+   </station>
+   <station gearId="18718">
+    <stop startdate="2014-09-22" module="1">138</stop>
+   </station>
+   <station gearId="14897">
+    <stop startdate="2014-09-22" module="1">139</stop>
+   </station>
+   <station gearId="30418">
+    <stop startdate="2014-09-22" module="1">140</stop>
+   </station>
+   <station gearId="22561">
+    <stop startdate="2014-09-22" module="1">141</stop>
+   </station>
+   <station gearId="18717">
+    <stop startdate="2014-09-22" module="1">142</stop>
+   </station>
+   <station gearId="16062">
+    <stop startdate="2014-09-22" module="1">143</stop>
+   </station>
+   <station gearId="44228">
+    <stop startdate="2014-09-22" module="1">144</stop>
+   </station>
+   <station gearId="14929">
+    <stop startdate="2014-09-22" module="1">145</stop>
+   </station>
+   <station gearId="18332">
+    <stop startdate="2014-09-22" module="1">148</stop>
+   </station>
+   <station gearId="16617">
+    <stop startdate="2014-09-22" module="1">152</stop>
+   </station>
+   <station gearId="30156">
+    <stop startdate="2014-09-22" module="1">153</stop>
+   </station>
+   <station gearId="35513">
+    <stop startdate="2014-09-22" module="1">155</stop>
+   </station>
+   <station gearId="25148">
+    <stop startdate="2015-10-20" module="1">156</stop>
+   </station>
+   <station gearId="67676">
+    <stop startdate="2015-01-27" module="2">157</stop>
+   </station>
+   <station gearId="14948">
+    <stop startdate="2017-04-04" module="1">159</stop>
+   </station>
+   <station gearId="16604">
+    <stop startdate="2017-04-04" module="1">162</stop>
+   </station>
+   <station gearId="16409">
+    <stop startdate="2014-09-22" module="1">163</stop>
+   </station>
+   <station gearId="46762">
+    <stop startdate="2014-09-22" module="1">164</stop>
+   </station>
+   <station gearId="56032">
+    <stop startdate="2015-06-02" module="1">165</stop>
+   </station>
+   <station gearId="16108">
+    <stop startdate="2014-09-22" module="1">169</stop>
+   </station>
+   <station gearId="14873">
+    <stop startdate="2014-09-22" module="1">170</stop>
+   </station>
+   <station gearId="52199">
+    <stop startdate="2014-09-22" module="1">173</stop>
+   </station>
+   <station gearId="55205">
+    <stop startdate="2015-06-23" expDate="2017-06-23" module="2">174</stop>
+   </station>
+   <station gearId="18262">
+    <stop startdate="2016-12-07" module="1">175</stop>
+   </station>
+   <station gearId="63307">
+    <stop startdate="2014-09-22" module="1">182</stop>
+   </station>
+   <station gearId="14789">
+    <stop startdate="2014-09-22" module="1">183</stop>
+   </station>
+   <station gearId="59086">
+    <stop startdate="2017-02-09" module="1">184</stop>
+    <stop startdate="2016-04-12" module="1">185</stop>
+   </station>
+   <station gearId="91111">
+    <stop startdate="2015-01-20" module="1">189</stop>
+   </station>
+   <station gearId="44150">
+    <stop startdate="2014-09-22" module="1">190</stop>
+   </station>
+   <station gearId="55684">
+    <stop startdate="2014-09-22" module="1">191</stop>
+   </station>
+   <station gearId="42558">
+    <stop startdate="2014-09-22" module="1">192</stop>
+   </station>
+   <station gearId="99132">
+    <stop startdate="2016-04-25" module="1">193</stop>
+   </station>
+   <station gearId="75337">
+    <stop startdate="2014-09-22" module="1">194</stop>
+   </station>
+   <station gearId="42560">
+    <stop startdate="2015-01-20" module="1">195</stop>
+   </station>
+   <station gearId="46616">
+    <stop startdate="2016-08-05" module="1">196</stop>
+   </station>
+   <station gearId="43806">
+    <stop startdate="2017-02-14" module="1">198</stop>
+   </station>
+   <station gearId="90917">
+    <stop startdate="2014-12-16" module="2">201</stop>
+   </station>
+   <station gearId="14791">
+    <stop startdate="2014-09-22" module="2">202</stop>
+   </station>
+   <station gearId="68356">
+    <stop startdate="2014-09-22" module="2">205</stop>
+   </station>
+   <station gearId="25347">
+    <stop startdate="2014-09-22" module="2">206</stop>
+   </station>
+   <station gearId="33527">
+    <stop startdate="2014-09-22" module="2">207</stop>
+   </station>
+   <station gearId="52649">
+    <stop startdate="2014-09-22" module="2">208</stop>
+   </station>
+   <station gearId="33669">
+    <stop startdate="2014-09-22" module="2">209</stop>
+   </station>
+   <station gearId="88154">
+    <stop startdate="2014-09-22" module="2">210</stop>
+   </station>
+   <station gearId="44448">
+    <stop startdate="2014-09-22" module="2">211</stop>
+   </station>
+   <station gearId="73812">
+    <stop startdate="2014-09-22" module="2">212</stop>
+   </station>
+   <station gearId="72449">
+    <stop startdate="2017-02-09" module="2">213</stop>
+   </station>
+   <station gearId="19247">
+    <stop startdate="2014-09-22" module="2">214</stop>
+   </station>
+   <station gearId="58428">
+    <stop startdate="2014-09-22" module="2">215</stop>
+   </station>
+   <station gearId="70337">
+    <stop startdate="2015-10-01" module="2">216</stop>
+   </station>
+   <station gearId="76964">
+    <stop startdate="2014-09-22" module="2">217</stop>
+   </station>
+   <station gearId="52208">
+    <stop startdate="2014-09-22" module="2">218</stop>
+   </station>
+   <station gearId="34393">
+    <stop startdate="2014-09-22" module="2">219</stop>
+   </station>
+   <station gearId="91060">
+    <stop startdate="2016-07-12" module="2">220</stop>
+   </station>
+   <station gearId="36139">
+    <stop startdate="2014-09-22" module="2">221</stop>
+   </station>
+   <station gearId="10222">
+    <stop startdate="2014-09-22" module="2">222</stop>
+   </station>
+   <station gearId="10239">
+    <stop startdate="2014-09-22" module="2">223</stop>
+   </station>
+   <station gearId="50500">
+    <stop startdate="2016-09-12" module="2">224</stop>
+   </station>
+   <station gearId="83173">
+    <stop startdate="2014-09-22" module="2">225</stop>
+   </station>
+   <station gearId="16046">
+    <stop startdate="2014-09-22" module="2">226</stop>
+    <stop startdate="2014-09-22" module="2">838</stop>
+   </station>
+   <station gearId="34344">
+    <stop startdate="2014-09-22" module="2">227</stop>
+   </station>
+   <station gearId="58631">
+    <stop startdate="2014-09-22" module="2">228</stop>
+   </station>
+   <station gearId="34294">
+    <stop startdate="2017-02-09" module="2">2280</stop>
+   </station>
+   <station gearId="43362">
+    <stop startdate="2014-09-22" module="2">229</stop>
+   </station>
+   <station gearId="33431">
+    <stop startdate="2014-09-22" module="2">230</stop>
+   </station>
+   <station gearId="55417">
+    <stop startdate="2017-02-09" module="2">2300</stop>
+   </station>
+   <station gearId="73318">
+    <stop startdate="2016-10-13" module="1">231</stop>
+   </station>
+   <station gearId="31590">
+    <stop startdate="2017-02-09" module="4">2310</stop>
+   </station>
+   <station gearId="74550">
+    <stop startdate="2014-09-22" module="2">232</stop>
+   </station>
+   <station gearId="75176">
+    <stop startdate="2014-09-22" module="2">233</stop>
+   </station>
+   <station gearId="62606">
+    <stop startdate="2017-02-09" module="2">2330</stop>
+   </station>
+   <station gearId="25595">
+    <stop startdate="2014-09-22" module="2">234</stop>
+   </station>
+   <station gearId="15377">
+    <stop startdate="2014-09-22" module="2">235</stop>
+   </station>
+   <station gearId="47196">
+    <stop startdate="2017-02-09" module="2">2350</stop>
+   </station>
+   <station gearId="34863">
+    <stop startdate="2014-09-22" module="2">236</stop>
+   </station>
+   <station gearId="339">
+    <stop startdate="2014-09-22" module="2">237</stop>
+   </station>
+   <station gearId="62607">
+    <stop startdate="2017-02-09" module="2">2370</stop>
+   </station>
+   <station gearId="55419">
+    <stop startdate="2017-02-09" module="2">2371</stop>
+   </station>
+   <station gearId="58540">
+    <stop startdate="2017-02-09" module="2">2372</stop>
+   </station>
+   <station gearId="62401">
+    <stop startdate="2014-09-22" module="2">238</stop>
+   </station>
+   <station gearId="48523">
+    <stop startdate="2014-09-22" module="2">239</stop>
+   </station>
+   <station gearId="44714">
+    <stop startdate="2014-09-22" module="2">240</stop>
+   </station>
+   <station gearId="62696">
+    <stop startdate="2017-02-09" module="2">2400</stop>
+   </station>
+   <station gearId="16288">
+    <stop startdate="2014-09-22" module="2">241</stop>
+   </station>
+   <station gearId="33628">
+    <stop startdate="2014-09-22" module="2">242</stop>
+   </station>
+   <station gearId="47187">
+    <stop startdate="2017-02-09" module="2">2420</stop>
+   </station>
+   <station gearId="65064">
+    <stop startdate="2014-09-22" module="2">243</stop>
+    <stop startdate="2016-08-02" module="2">737</stop>
+   </station>
+   <station gearId="62685">
+    <stop startdate="2017-02-09" module="2">2440</stop>
+   </station>
+   <station gearId="18715">
+    <stop startdate="2014-09-22" module="2">245</stop>
+   </station>
+   <station gearId="54867">
+    <stop startdate="2014-09-22" module="2">246</stop>
+   </station>
+   <station gearId="62601">
+    <stop startdate="2017-02-09" module="2">2460</stop>
+   </station>
+   <station gearId="65500">
+    <stop startdate="2017-02-09" module="2">2468</stop>
+   </station>
+   <station gearId="51972">
+    <stop startdate="2017-02-09" module="2">2470</stop>
+   </station>
+   <station gearId="31809">
+    <stop startdate="2017-02-09" module="2">2471</stop>
+    <stop startdate="2014-09-22" module="3">967</stop>
+   </station>
+   <station gearId="72680">
+    <stop startdate="2017-02-09" module="2">2472</stop>
+   </station>
+   <station gearId="33907">
+    <stop startdate="2017-02-09" module="2">2473</stop>
+   </station>
+   <station gearId="62713">
+    <stop startdate="2017-02-09" module="2">2478</stop>
+   </station>
+   <station gearId="34394">
+    <stop startdate="2014-09-22" module="2">248</stop>
+   </station>
+   <station gearId="54760">
+    <stop startdate="2017-02-09" module="2">2480</stop>
+   </station>
+   <station gearId="63169">
+    <stop startdate="2017-02-09" module="2">2485</stop>
+   </station>
+   <station gearId="25615">
+    <stop startdate="2014-09-22" module="2">249</stop>
+   </station>
+   <station gearId="31591">
+    <stop startdate="2017-02-09" module="2">2490</stop>
+   </station>
+   <station gearId="97042">
+    <stop startdate="2016-03-30" module="2">2495</stop>
+   </station>
+   <station gearId="94773">
+    <stop startdate="2017-02-09" module="2">2497</stop>
+   </station>
+   <station gearId="27850">
+    <stop startdate="2017-02-09" module="2">2498</stop>
+   </station>
+   <station gearId="94159">
+    <stop startdate="2017-02-09" module="2">2499</stop>
+   </station>
+   <station gearId="12750">
+    <stop startdate="2014-09-22" module="2">250</stop>
+   </station>
+   <station gearId="17142">
+    <stop startdate="2014-09-22" module="2">251</stop>
+   </station>
+   <station gearId="88506">
+    <stop startdate="2014-09-22" module="2">252</stop>
+   </station>
+   <station gearId="47499">
+    <stop startdate="2014-09-22" module="2">253</stop>
+   </station>
+   <station gearId="65809">
+    <stop startdate="2014-09-22" module="2">254</stop>
+   </station>
+   <station gearId="16800">
+    <stop startdate="2014-09-22" module="2">255</stop>
+   </station>
+   <station gearId="50263">
+    <stop startdate="2014-09-22" module="2">256</stop>
+   </station>
+   <station gearId="24515">
+    <stop startdate="2014-09-22" module="2">257</stop>
+   </station>
+   <station gearId="84172">
+    <stop startdate="2014-12-16" module="2">259</stop>
+   </station>
+   <station gearId="78831">
+    <stop startdate="2017-02-09" module="2">261</stop>
+   </station>
+   <station gearId="74492">
+    <stop startdate="2014-09-22" module="2">288</stop>
+   </station>
+   <station gearId="90216">
+    <stop startdate="2014-09-22" module="2">289</stop>
+   </station>
+   <station gearId="19059">
+    <stop startdate="2014-09-22" module="2">290</stop>
+   </station>
+   <station gearId="18644">
+    <stop startdate="2014-09-22" module="2">293</stop>
+   </station>
+   <station gearId="44852">
+    <stop startdate="2014-09-22" module="2">294</stop>
+   </station>
+   <station gearId="68605">
+    <stop startdate="2014-09-22" module="2">296</stop>
+   </station>
+   <station gearId="14763">
+    <stop startdate="2014-09-22" module="2">297</stop>
+   </station>
+   <station gearId="12324">
+    <stop startdate="2014-09-22" module="2">298</stop>
+   </station>
+   <station gearId="72761">
+    <stop startdate="2014-09-22" module="2">299</stop>
+   </station>
+   <station gearId="16485">
+    <stop startdate="2014-09-22" module="2">300</stop>
+   </station>
+   <station gearId="15451">
+    <stop startdate="2014-09-22" module="2">301</stop>
+   </station>
+   <station gearId="45654">
+    <stop startdate="2014-09-22" module="2">302</stop>
+   </station>
+   <station gearId="16365">
+    <stop startdate="2014-09-22" module="2">303</stop>
+   </station>
+   <station gearId="26077">
+    <stop startdate="2014-09-22" module="2">304</stop>
+   </station>
+   <station gearId="26078">
+    <stop startdate="2014-09-22" module="2">305</stop>
+   </station>
+   <station gearId="26079">
+    <stop startdate="2014-09-22" module="2">306</stop>
+   </station>
+   <station gearId="33178">
+    <stop startdate="2014-09-22" module="2">307</stop>
+   </station>
+   <station gearId="58570">
+    <stop startdate="2014-09-22" module="2">309</stop>
+   </station>
+   <station gearId="33395">
+    <stop startdate="2014-09-22" module="2">312</stop>
+   </station>
+   <station gearId="14776">
+    <stop startdate="2014-09-22" module="2">314</stop>
+   </station>
+   <station gearId="33930">
+    <stop startdate="2015-03-10" module="2">315</stop>
+   </station>
+   <station gearId="45169">
+    <stop startdate="2014-09-22" module="2">317</stop>
+   </station>
+   <station gearId="16125">
+    <stop startdate="2014-09-22" module="2">319</stop>
+   </station>
+   <station gearId="65024">
+    <stop startdate="2014-09-22" module="2">323</stop>
+   </station>
+   <station gearId="56783">
+    <stop startdate="2014-09-22" module="2">324</stop>
+   </station>
+   <station gearId="82452">
+    <stop startdate="2017-02-09" module="2">325</stop>
+   </station>
+   <station gearId="94794">
+    <stop startdate="2017-02-09" module="2">329</stop>
+   </station>
+   <station gearId="89739">
+    <stop startdate="2014-09-22" module="2">330</stop>
+   </station>
+   <station gearId="104186">
+    <stop startdate="2017-07-15" module="2">335</stop>
+   </station>
+   <station gearId="26197">
+    <stop startdate="2014-09-22" module="3">360</stop>
+   </station>
+   <station gearId="26198">
+    <stop startdate="2014-09-22" module="3">361</stop>
+   </station>
+   <station gearId="26199">
+    <stop startdate="2014-09-22" module="3">362</stop>
+   </station>
+   <station gearId="26200">
+    <stop startdate="2014-09-22" module="3">363</stop>
+   </station>
+   <station gearId="26201">
+    <stop startdate="2014-09-22" module="3">364</stop>
+   </station>
+   <station gearId="26202">
+    <stop startdate="2014-09-22" module="3">365</stop>
+   </station>
+   <station gearId="26203">
+    <stop startdate="2014-09-22" module="3">366</stop>
+   </station>
+   <station gearId="26204">
+    <stop startdate="2014-09-22" module="3">367</stop>
+   </station>
+   <station gearId="29093">
+    <stop startdate="2014-09-22" module="3">368</stop>
+   </station>
+   <station gearId="31250">
+    <stop startdate="2014-09-22" module="3">369</stop>
+   </station>
+   <station gearId="53701">
+    <stop startdate="2014-09-22" module="3">370</stop>
+   </station>
+   <station gearId="53704">
+    <stop startdate="2014-09-22" module="3">371</stop>
+   </station>
+   <station gearId="53705">
+    <stop startdate="2014-09-22" module="3">372</stop>
+   </station>
+   <station gearId="53708">
+    <stop startdate="2014-09-22" module="3">373</stop>
+   </station>
+   <station gearId="55596">
+    <stop startdate="2016-03-30" module="3">374</stop>
+   </station>
+   <station gearId="66112">
+    <stop startdate="2016-03-30" module="3">375</stop>
+   </station>
+   <station gearId="72810">
+    <stop startdate="2016-03-30" module="3">376</stop>
+   </station>
+   <station gearId="72824">
+    <stop startdate="2016-03-30" module="3">377</stop>
+   </station>
+   <station gearId="72825">
+    <stop startdate="2016-03-30" module="3">378</stop>
+   </station>
+   <station gearId="72826">
+    <stop startdate="2016-03-30" module="3">379</stop>
+   </station>
+   <station gearId="72827">
+    <stop startdate="2016-03-30" module="3">380</stop>
+   </station>
+   <station gearId="72828">
+    <stop startdate="2016-03-30" module="3">381</stop>
+   </station>
+   <station gearId="72829">
+    <stop startdate="2016-03-30" module="3">382</stop>
+   </station>
+   <station gearId="72601">
+    <stop startdate="2015-06-30" module="2">405</stop>
+   </station>
+   <station gearId="60152">
+    <stop startdate="2015-06-30" module="2">406</stop>
+   </station>
+   <station gearId="46463">
+    <stop startdate="2015-06-30" module="2">407</stop>
+   </station>
+   <station gearId="75448">
+    <stop startdate="2015-06-30" module="2">408</stop>
+   </station>
+   <station gearId="80214">
+    <stop startdate="2015-06-30" module="2">409</stop>
+   </station>
+   <station gearId="99702">
+    <stop startdate="2016-05-19" expDate="2017-06-12" module="2">420</stop>
+   </station>
+   <station gearId="55819">
+    <stop startdate="2014-09-22" module="3">500</stop>
+   </station>
+   <station gearId="19548">
+    <stop startdate="2014-09-22" module="3">501</stop>
+   </station>
+   <station gearId="19566">
+    <stop startdate="2014-09-22" module="3">502</stop>
+   </station>
+   <station gearId="59368">
+    <stop startdate="2014-09-22" module="3">503</stop>
+   </station>
+   <station gearId="59355">
+    <stop startdate="2014-09-22" module="3">504</stop>
+   </station>
+   <station gearId="59363">
+    <stop startdate="2014-09-22" module="3">505</stop>
+   </station>
+   <station gearId="59366">
+    <stop startdate="2014-09-22" module="3">506</stop>
+   </station>
+   <station gearId="59357">
+    <stop startdate="2014-09-22" module="3">507</stop>
+   </station>
+   <station gearId="59362">
+    <stop startdate="2014-09-22" module="3">508</stop>
+   </station>
+   <station gearId="59839">
+    <stop startdate="2014-09-22" module="3">509</stop>
+   </station>
+   <station gearId="59841">
+    <stop startdate="2014-09-22" module="3">510</stop>
+   </station>
+   <station gearId="59845">
+    <stop startdate="2014-09-22" module="3">511</stop>
+   </station>
+   <station gearId="59847">
+    <stop startdate="2014-09-22" module="3">512</stop>
+   </station>
+   <station gearId="59837">
+    <stop startdate="2014-09-22" module="3">513</stop>
+   </station>
+   <station gearId="59849">
+    <stop startdate="2014-09-22" module="3">514</stop>
+   </station>
+   <station gearId="38589">
+    <stop startdate="2014-09-22" module="3">517</stop>
+   </station>
+   <station gearId="10240">
+    <stop startdate="2014-09-22" module="3">518</stop>
+   </station>
+   <station gearId="10244">
+    <stop startdate="2014-09-22" module="3">519</stop>
+   </station>
+   <station gearId="10241">
+    <stop startdate="2014-09-22" module="3">520</stop>
+   </station>
+   <station gearId="10243">
+    <stop startdate="2014-09-22" module="3">521</stop>
+   </station>
+   <station gearId="16585">
+    <stop startdate="2014-09-22" module="3">522</stop>
+   </station>
+   <station gearId="18429">
+    <stop startdate="2014-09-22" module="3">523</stop>
+   </station>
+   <station gearId="18431">
+    <stop startdate="2014-09-22" module="3">524</stop>
+   </station>
+   <station gearId="24553">
+    <stop startdate="2014-09-22" module="3">525</stop>
+   </station>
+   <station gearId="62343">
+    <stop startdate="2014-09-22" module="3">530</stop>
+   </station>
+   <station gearId="34933">
+    <stop startdate="2014-09-22" module="3">531</stop>
+   </station>
+   <station gearId="35975">
+    <stop startdate="2014-09-22" module="3">532</stop>
+   </station>
+   <station gearId="59373">
+    <stop startdate="2014-09-22" module="3">533</stop>
+   </station>
+   <station gearId="59375">
+    <stop startdate="2014-09-22" module="3">534</stop>
+   </station>
+   <station gearId="59948">
+    <stop startdate="2014-09-22" module="3">535</stop>
+   </station>
+   <station gearId="59950">
+    <stop startdate="2014-09-22" module="3">536</stop>
+   </station>
+   <station gearId="59954">
+    <stop startdate="2014-09-22" module="3">537</stop>
+   </station>
+   <station gearId="59959">
+    <stop startdate="2014-09-22" module="3">538</stop>
+   </station>
+   <station gearId="59961">
+    <stop startdate="2014-09-22" module="3">539</stop>
+   </station>
+   <station gearId="59963">
+    <stop startdate="2014-09-22" module="3">541</stop>
+   </station>
+   <station gearId="59952">
+    <stop startdate="2014-09-22" module="3">543</stop>
+   </station>
+   <station gearId="59965">
+    <stop startdate="2014-09-22" module="3">545</stop>
+   </station>
+   <station gearId="31571">
+    <stop startdate="2014-09-22" module="3">548</stop>
+   </station>
+   <station gearId="10120">
+    <stop startdate="2014-09-22" module="3">549</stop>
+   </station>
+   <station gearId="12508">
+    <stop startdate="2014-09-22" module="3">550</stop>
+   </station>
+   <station gearId="10121">
+    <stop startdate="2014-09-22" module="3">551</stop>
+   </station>
+   <station gearId="18433">
+    <stop startdate="2014-09-22" module="3">552</stop>
+   </station>
+   <station gearId="18435">
+    <stop startdate="2014-09-22" module="3">553</stop>
+   </station>
+   <station gearId="25620">
+    <stop startdate="2014-09-22" module="3">554</stop>
+   </station>
+   <station gearId="25621">
+    <stop startdate="2014-09-22" module="3">555</stop>
+   </station>
+   <station gearId="25622">
+    <stop startdate="2014-09-22" module="3">556</stop>
+   </station>
+   <station gearId="25623">
+    <stop startdate="2014-09-22" module="3">557</stop>
+   </station>
+   <station gearId="55817">
+    <stop startdate="2014-09-22" module="3">560</stop>
+   </station>
+   <station gearId="21868">
+    <stop startdate="2014-09-22" module="3">561</stop>
+   </station>
+   <station gearId="22532">
+    <stop startdate="2014-09-22" module="3">562</stop>
+   </station>
+   <station gearId="58533">
+    <stop startdate="2014-09-22" module="3">563</stop>
+   </station>
+   <station gearId="60953">
+    <stop startdate="2014-09-22" module="3">564</stop>
+   </station>
+   <station gearId="61001">
+    <stop startdate="2014-09-22" module="3">565</stop>
+   </station>
+   <station gearId="61064">
+    <stop startdate="2014-09-22" module="3">566</stop>
+   </station>
+   <station gearId="68340">
+    <stop startdate="2014-09-22" module="3">567</stop>
+   </station>
+   <station gearId="60947">
+    <stop startdate="2014-09-22" module="3">569</stop>
+   </station>
+   <station gearId="60945">
+    <stop startdate="2014-09-22" module="3">570</stop>
+   </station>
+   <station gearId="68338">
+    <stop startdate="2014-09-22" module="3">571</stop>
+   </station>
+   <station gearId="68342">
+    <stop startdate="2014-09-22" module="3">573</stop>
+   </station>
+   <station gearId="32026">
+    <stop startdate="2014-09-22" module="3">577</stop>
+   </station>
+   <station gearId="11115">
+    <stop startdate="2014-09-22" module="3">578</stop>
+   </station>
+   <station gearId="11117">
+    <stop startdate="2014-09-22" module="3">579</stop>
+   </station>
+   <station gearId="11116">
+    <stop startdate="2014-09-22" module="3">580</stop>
+   </station>
+   <station gearId="16153">
+    <stop startdate="2014-09-22" module="3">581</stop>
+   </station>
+   <station gearId="20622">
+    <stop startdate="2014-09-22" module="3">582</stop>
+   </station>
+   <station gearId="18086">
+    <stop startdate="2014-09-22" module="3">583</stop>
+   </station>
+   <station gearId="25272">
+    <stop startdate="2014-09-22" module="3">584</stop>
+   </station>
+   <station gearId="25270">
+    <stop startdate="2014-09-22" module="3">585</stop>
+   </station>
+   <station gearId="67111">
+    <stop startdate="2014-09-22" module="3">590</stop>
+   </station>
+   <station gearId="35329">
+    <stop startdate="2014-09-22" module="3">591</stop>
+   </station>
+   <station gearId="50600">
+    <stop startdate="2014-09-22" module="3">592</stop>
+   </station>
+   <station gearId="60951">
+    <stop startdate="2014-09-22" module="3">593</stop>
+   </station>
+   <station gearId="60949">
+    <stop startdate="2014-09-22" module="3">594</stop>
+   </station>
+   <station gearId="31570">
+    <stop startdate="2014-09-22" module="3">597</stop>
+   </station>
+   <station gearId="11160">
+    <stop startdate="2014-09-22" module="3">598</stop>
+   </station>
+   <station gearId="17663">
+    <stop startdate="2014-09-22" module="3">599</stop>
+   </station>
+   <station gearId="12509">
+    <stop startdate="2014-09-22" module="3">600</stop>
+   </station>
+   <station gearId="61954">
+    <stop startdate="2014-09-22" module="3">605</stop>
+   </station>
+   <station gearId="34941">
+    <stop startdate="2014-09-22" module="3">606</stop>
+   </station>
+   <station gearId="34949">
+    <stop startdate="2014-09-22" module="3">607</stop>
+   </station>
+   <station gearId="67235">
+    <stop startdate="2014-09-22" module="3">608</stop>
+   </station>
+   <station gearId="57569">
+    <stop startdate="2014-09-22" module="3">610</stop>
+   </station>
+   <station gearId="67236">
+    <stop startdate="2014-09-22" module="3">612</stop>
+   </station>
+   <station gearId="57581">
+    <stop startdate="2014-09-22" module="3">614</stop>
+   </station>
+   <station gearId="57573">
+    <stop startdate="2014-09-22" module="3">616</stop>
+   </station>
+   <station gearId="65631">
+    <stop startdate="2014-09-22" module="3">620</stop>
+   </station>
+   <station gearId="12719">
+    <stop startdate="2014-09-22" module="3">621</stop>
+   </station>
+   <station gearId="12741">
+    <stop startdate="2014-09-22" module="3">622</stop>
+   </station>
+   <station gearId="16833">
+    <stop startdate="2014-09-22" module="3">623</stop>
+   </station>
+   <station gearId="34901">
+    <stop startdate="2014-09-22" module="3">624</stop>
+   </station>
+   <station gearId="19634">
+    <stop startdate="2014-09-22" module="3">625</stop>
+   </station>
+   <station gearId="19635">
+    <stop startdate="2014-09-22" module="3">626</stop>
+   </station>
+   <station gearId="16311">
+    <stop startdate="2014-09-22" module="3">627</stop>
+   </station>
+   <station gearId="74149">
+    <stop startdate="2014-09-22" module="3">630</stop>
+   </station>
+   <station gearId="36225">
+    <stop startdate="2014-09-22" module="3">631</stop>
+   </station>
+   <station gearId="67237">
+    <stop startdate="2014-09-22" module="3">632</stop>
+   </station>
+   <station gearId="72015">
+    <stop startdate="2014-09-22" module="3">633</stop>
+   </station>
+   <station gearId="83404">
+    <stop startdate="2014-09-22" module="3">635</stop>
+   </station>
+   <station gearId="83076">
+    <stop startdate="2014-09-22" module="3">637</stop>
+   </station>
+   <station gearId="72014">
+    <stop startdate="2014-09-22" module="3">639</stop>
+   </station>
+   <station gearId="49317">
+    <stop startdate="2014-09-22" module="3">643</stop>
+   </station>
+   <station gearId="10178">
+    <stop startdate="2014-09-22" module="3">644</stop>
+   </station>
+   <station gearId="17125">
+    <stop startdate="2014-09-22" module="3">645</stop>
+   </station>
+   <station gearId="14871">
+    <stop startdate="2014-09-22" module="3">646</stop>
+   </station>
+   <station gearId="14764">
+    <stop startdate="2014-09-22" module="3">647</stop>
+   </station>
+   <station gearId="14765">
+    <stop startdate="2014-09-22" module="3">648</stop>
+   </station>
+   <station gearId="14766">
+    <stop startdate="2014-09-22" module="3">649</stop>
+   </station>
+   <station gearId="14870">
+    <stop startdate="2014-09-22" module="3">650</stop>
+   </station>
+   <station gearId="14886">
+    <stop startdate="2014-09-22" module="3">651</stop>
+   </station>
+   <station gearId="72016">
+    <stop startdate="2014-09-22" module="3">652</stop>
+   </station>
+   <station gearId="65795">
+    <stop startdate="2014-09-22" module="3">656</stop>
+   </station>
+   <station gearId="65791">
+    <stop startdate="2014-09-22" module="3">657</stop>
+   </station>
+   <station gearId="83075">
+    <stop startdate="2014-09-22" module="3">658</stop>
+   </station>
+   <station gearId="72182">
+    <stop startdate="2014-09-22" module="3">670</stop>
+   </station>
+   <station gearId="65687">
+    <stop startdate="2014-09-22" module="3">671</stop>
+   </station>
+   <station gearId="66075">
+    <stop startdate="2014-09-22" module="3">672</stop>
+   </station>
+   <station gearId="67491">
+    <stop startdate="2014-09-22" module="3">675</stop>
+   </station>
+   <station gearId="65669">
+    <stop startdate="2014-09-22" module="3">676</stop>
+   </station>
+   <station gearId="66073">
+    <stop startdate="2014-09-22" module="3">677</stop>
+   </station>
+   <station gearId="104089">
+    <stop startdate="2017-07-15" module="2">698</stop>
+   </station>
+   <station gearId="43126">
+    <stop startdate="2014-09-22" module="1">703</stop>
+   </station>
+   <station gearId="62077">
+    <stop startdate="2014-09-22" module="1">704</stop>
+   </station>
+   <station gearId="32496">
+    <stop startdate="2014-09-22" module="1">705</stop>
+   </station>
+   <station gearId="49092">
+    <stop startdate="2014-09-22" module="1">706</stop>
+   </station>
+   <station gearId="42776">
+    <stop startdate="2014-09-22" module="1">709</stop>
+   </station>
+   <station gearId="31315">
+    <stop startdate="2014-09-22" module="1">710</stop>
+   </station>
+   <station gearId="60222">
+    <stop startdate="2014-09-22" module="1">711</stop>
+   </station>
+   <station gearId="35121">
+    <stop startdate="2017-02-09" module="2">712</stop>
+   </station>
+   <station gearId="80597">
+    <stop startdate="2014-09-22" module="2">716</stop>
+   </station>
+   <station gearId="65556">
+    <stop startdate="2014-09-22" module="2">717</stop>
+   </station>
+   <station gearId="59539">
+    <stop startdate="2014-09-22" module="2">718</stop>
+   </station>
+   <station gearId="82649">
+    <stop startdate="2014-09-22" module="2">719</stop>
+   </station>
+   <station gearId="59684">
+    <stop startdate="2014-09-22" module="2">720</stop>
+   </station>
+   <station gearId="74885">
+    <stop startdate="2014-09-22" module="2">721</stop>
+   </station>
+   <station gearId="60006">
+    <stop startdate="2014-09-22" module="2">722</stop>
+    <stop startdate="2014-09-22" module="2">886</stop>
+   </station>
+   <station gearId="59615">
+    <stop startdate="2014-09-22" module="2">723</stop>
+   </station>
+   <station gearId="60048">
+    <stop startdate="2014-09-22" module="2">724</stop>
+    <stop startdate="2014-09-22" module="2">872</stop>
+   </station>
+   <station gearId="70225">
+    <stop startdate="2014-09-22" module="2">725</stop>
+   </station>
+   <station gearId="67749">
+    <stop startdate="2014-09-22" module="2">726</stop>
+   </station>
+   <station gearId="59432">
+    <stop startdate="2014-09-22" module="2">727</stop>
+   </station>
+   <station gearId="82654">
+    <stop startdate="2014-09-22" module="2">728</stop>
+   </station>
+   <station gearId="57394">
+    <stop startdate="2014-09-22" module="2">729</stop>
+   </station>
+   <station gearId="67331">
+    <stop startdate="2014-09-22" module="2">730</stop>
+   </station>
+   <station gearId="73541">
+    <stop startdate="2014-09-22" module="2">732</stop>
+   </station>
+   <station gearId="78601">
+    <stop startdate="2014-09-22" module="2">734</stop>
+   </station>
+   <station gearId="68796">
+    <stop startdate="2014-09-22" module="2">735</stop>
+   </station>
+   <station gearId="66268">
+    <stop startdate="2014-09-22" module="2">736</stop>
+   </station>
+   <station gearId="60150">
+    <stop startdate="2014-09-22" module="2">738</stop>
+   </station>
+   <station gearId="59296">
+    <stop startdate="2014-09-22" module="2">739</stop>
+   </station>
+   <station gearId="70388">
+    <stop startdate="2014-09-22" module="2">741</stop>
+   </station>
+   <station gearId="70522">
+    <stop startdate="2014-09-22" module="2">742</stop>
+   </station>
+   <station gearId="61812">
+    <stop startdate="2014-09-22" module="2">743</stop>
+   </station>
+   <station gearId="61814">
+    <stop startdate="2014-09-22" expDate="2017-06-28" module="2">744</stop>
+   </station>
+   <station gearId="64492">
+    <stop startdate="2014-09-22" module="2">746</stop>
+   </station>
+   <station gearId="58625">
+    <stop startdate="2014-09-22" module="2">747</stop>
+   </station>
+   <station gearId="57391">
+    <stop startdate="2014-09-22" module="2">748</stop>
+   </station>
+   <station gearId="63236">
+    <stop startdate="2014-09-22" module="2">749</stop>
+   </station>
+   <station gearId="61960">
+    <stop startdate="2014-09-22" module="2">750</stop>
+   </station>
+   <station gearId="50747">
+    <stop startdate="2014-09-22" module="2">751</stop>
+   </station>
+   <station gearId="49788">
+    <stop startdate="2014-09-22" module="2">752</stop>
+   </station>
+   <station gearId="68065">
+    <stop startdate="2014-09-22" module="2">753</stop>
+   </station>
+   <station gearId="67375">
+    <stop startdate="2014-09-22" module="2">756</stop>
+   </station>
+   <station gearId="60468">
+    <stop startdate="2014-09-22" module="2">757</stop>
+   </station>
+   <station gearId="59303">
+    <stop startdate="2014-09-22" module="2">758</stop>
+   </station>
+   <station gearId="28506">
+    <stop startdate="2015-12-01" module="2">759</stop>
+   </station>
+   <station gearId="33668">
+    <stop startdate="2015-12-01" module="2">760</stop>
+   </station>
+   <station gearId="58532">
+    <stop startdate="2014-09-22" module="2">761</stop>
+   </station>
+   <station gearId="49438">
+    <stop startdate="2014-09-22" module="2">762</stop>
+   </station>
+   <station gearId="68344">
+    <stop startdate="2014-09-22" module="2">763</stop>
+   </station>
+   <station gearId="68334">
+    <stop startdate="2014-09-22" module="2">764</stop>
+   </station>
+   <station gearId="68332">
+    <stop startdate="2014-09-22" module="2">765</stop>
+   </station>
+   <station gearId="57708">
+    <stop startdate="2014-09-22" module="2">766</stop>
+   </station>
+   <station gearId="78808">
+    <stop startdate="2014-09-22" module="2">767</stop>
+   </station>
+   <station gearId="57390">
+    <stop startdate="2014-09-22" module="2">768</stop>
+   </station>
+   <station gearId="65732">
+    <stop startdate="2014-09-22" module="2">769</stop>
+   </station>
+   <station gearId="69061">
+    <stop startdate="2016-09-28" module="2">770</stop>
+   </station>
+   <station gearId="65342">
+    <stop startdate="2014-09-22" module="2">771</stop>
+   </station>
+   <station gearId="64490">
+    <stop startdate="2014-09-22" module="2">772</stop>
+   </station>
+   <station gearId="51529">
+    <stop startdate="2014-09-22" module="2">773</stop>
+   </station>
+   <station gearId="58988">
+    <stop startdate="2014-09-22" module="2">774</stop>
+   </station>
+   <station gearId="93564">
+    <stop startdate="2015-06-02" module="2">775</stop>
+   </station>
+   <station gearId="91314">
+    <stop startdate="2015-01-27" module="2">776</stop>
+   </station>
+   <station gearId="34763">
+    <stop startdate="2014-09-22" expDate="2017-07-14" module="2">777</stop>
+   </station>
+   <station gearId="31046">
+    <stop startdate="2014-09-22" module="2">778</stop>
+   </station>
+   <station gearId="56905">
+    <stop startdate="2014-09-22" module="2">779</stop>
+   </station>
+   <station gearId="58515">
+    <stop startdate="2014-09-22" module="2">780</stop>
+   </station>
+   <station gearId="42642">
+    <stop startdate="2014-09-22" module="2">781</stop>
+   </station>
+   <station gearId="58452">
+    <stop startdate="2014-09-22" module="2">782</stop>
+   </station>
+   <station gearId="91096">
+    <stop startdate="2015-06-23" module="2">783</stop>
+   </station>
+   <station gearId="58574">
+    <stop startdate="2014-09-22" module="2">784</stop>
+   </station>
+   <station gearId="60179">
+    <stop startdate="2014-09-22" module="2">787</stop>
+   </station>
+   <station gearId="58646">
+    <stop startdate="2014-09-22" module="2">788</stop>
+   </station>
+   <station gearId="64549">
+    <stop startdate="2014-09-22" module="2">789</stop>
+   </station>
+   <station gearId="64241">
+    <stop startdate="2014-09-22" module="2">790</stop>
+   </station>
+   <station gearId="91505">
+    <stop startdate="2016-09-12" module="2">791</stop>
+   </station>
+   <station gearId="58780">
+    <stop startdate="2014-09-22" module="2">792</stop>
+   </station>
+   <station gearId="58718">
+    <stop startdate="2014-09-22" module="2">793</stop>
+   </station>
+   <station gearId="71799">
+    <stop startdate="2014-09-22" module="2">794</stop>
+   </station>
+   <station gearId="76774">
+    <stop startdate="2014-09-22" module="2">795</stop>
+   </station>
+   <station gearId="58812">
+    <stop startdate="2014-09-22" module="2">797</stop>
+   </station>
+   <station gearId="45542">
+    <stop startdate="2014-09-22" module="2">799</stop>
+   </station>
+   <station gearId="99665">
+    <stop startdate="2016-05-19" expDate="2017-06-12" module="2">801</stop>
+   </station>
+   <station gearId="65025">
+    <stop startdate="2014-09-22" module="2">803</stop>
+   </station>
+   <station gearId="48639">
+    <stop startdate="2014-09-22" module="2">806</stop>
+   </station>
+   <station gearId="32645">
+    <stop startdate="2014-09-22" module="2">808</stop>
+   </station>
+   <station gearId="45507">
+    <stop startdate="2014-09-22" module="2">809</stop>
+   </station>
+   <station gearId="65466">
+    <stop startdate="2014-09-22" module="2">810</stop>
+   </station>
+   <station gearId="89714">
+    <stop startdate="2014-09-22" module="2">811</stop>
+   </station>
+   <station gearId="61138">
+    <stop startdate="2014-09-22" module="2">812</stop>
+   </station>
+   <station gearId="59250">
+    <stop startdate="2014-09-22" module="2">813</stop>
+   </station>
+   <station gearId="82453">
+    <stop startdate="2017-02-09" module="2">814</stop>
+   </station>
+   <station gearId="59976">
+    <stop startdate="2014-09-22" module="2">815</stop>
+   </station>
+   <station gearId="60696">
+    <stop startdate="2014-09-22" module="2">816</stop>
+   </station>
+   <station gearId="82705">
+    <stop startdate="2014-09-22" module="2">817</stop>
+   </station>
+   <station gearId="58690">
+    <stop startdate="2014-09-22" module="2">818</stop>
+   </station>
+   <station gearId="62081">
+    <stop startdate="2014-09-22" module="2">819</stop>
+   </station>
+   <station gearId="89740">
+    <stop startdate="2014-09-22" module="2">820</stop>
+   </station>
+   <station gearId="58321">
+    <stop startdate="2014-09-22" module="2">821</stop>
+   </station>
+   <station gearId="45399">
+    <stop startdate="2014-09-22" module="2">822</stop>
+   </station>
+   <station gearId="61854">
+    <stop startdate="2014-09-22" module="2">823</stop>
+   </station>
+   <station gearId="60316">
+    <stop startdate="2014-09-22" module="2">824</stop>
+   </station>
+   <station gearId="90898">
+    <stop startdate="2014-12-16" module="2">825</stop>
+   </station>
+   <station gearId="82547">
+    <stop startdate="2014-09-22" module="2">826</stop>
+   </station>
+   <station gearId="59305">
+    <stop startdate="2014-09-22" module="2">827</stop>
+   </station>
+   <station gearId="91071">
+    <stop startdate="2016-07-12" module="2">828</stop>
+   </station>
+   <station gearId="91588">
+    <stop startdate="2015-09-25" module="2">829</stop>
+   </station>
+   <station gearId="46737">
+    <stop startdate="2014-09-22" module="2">830</stop>
+   </station>
+   <station gearId="66310">
+    <stop startdate="2015-05-08" module="2">831</stop>
+   </station>
+   <station gearId="72094">
+    <stop startdate="2016-12-07" module="2">832</stop>
+   </station>
+   <station gearId="84175">
+    <stop startdate="2014-12-16" module="2">833</stop>
+   </station>
+   <station gearId="90315">
+    <stop startdate="2014-09-22" module="2">834</stop>
+   </station>
+   <station gearId="61036">
+    <stop startdate="2014-09-22" module="2">835</stop>
+   </station>
+   <station gearId="90038">
+    <stop startdate="2014-09-22" module="2">836</stop>
+   </station>
+   <station gearId="83230">
+    <stop startdate="2014-09-22" module="2">837</stop>
+   </station>
+   <station gearId="90319">
+    <stop startdate="2014-09-22" module="2">839</stop>
+   </station>
+   <station gearId="90139">
+    <stop startdate="2014-09-22" module="2">840</stop>
+   </station>
+   <station gearId="90222">
+    <stop startdate="2014-09-22" module="2">841</stop>
+   </station>
+   <station gearId="90322">
+    <stop startdate="2014-09-22" module="2">842</stop>
+   </station>
+   <station gearId="58623">
+    <stop startdate="2014-09-22" module="2">843</stop>
+   </station>
+   <station gearId="66379">
+    <stop startdate="2014-09-22" module="2">844</stop>
+   </station>
+   <station gearId="79695">
+    <stop startdate="2014-09-22" module="2">845</stop>
+   </station>
+   <station gearId="68827">
+    <stop startdate="2014-09-22" module="2">846</stop>
+   </station>
+   <station gearId="59186">
+    <stop startdate="2014-09-22" module="2">847</stop>
+   </station>
+   <station gearId="88813">
+    <stop startdate="2014-09-22" module="2">848</stop>
+   </station>
+   <station gearId="62420">
+    <stop startdate="2014-09-22" module="2">849</stop>
+   </station>
+   <station gearId="79696">
+    <stop startdate="2014-09-22" module="2">850</stop>
+   </station>
+   <station gearId="79692">
+    <stop startdate="2014-09-22" module="2">851</stop>
+   </station>
+   <station gearId="79607">
+    <stop startdate="2014-09-22" module="2">852</stop>
+   </station>
+   <station gearId="79680">
+    <stop startdate="2014-09-22" module="2">853</stop>
+   </station>
+   <station gearId="59444">
+    <stop startdate="2014-09-22" module="2">854</stop>
+   </station>
+   <station gearId="79605">
+    <stop startdate="2014-09-22" module="2">855</stop>
+   </station>
+   <station gearId="79606">
+    <stop startdate="2014-09-22" module="2">856</stop>
+   </station>
+   <station gearId="80149">
+    <stop startdate="2014-09-22" module="2">857</stop>
+   </station>
+   <station gearId="68385">
+    <stop startdate="2014-09-22" module="2">858</stop>
+   </station>
+   <station gearId="71280">
+    <stop startdate="2014-09-22" module="2">859</stop>
+   </station>
+   <station gearId="70253">
+    <stop startdate="2014-09-22" module="2">860</stop>
+   </station>
+   <station gearId="64312">
+    <stop startdate="2014-09-22" module="2">861</stop>
+   </station>
+   <station gearId="59337">
+    <stop startdate="2014-09-22" module="2">862</stop>
+   </station>
+   <station gearId="46710">
+    <stop startdate="2014-09-22" module="2">863</stop>
+   </station>
+   <station gearId="55887">
+    <stop startdate="2014-09-22" module="2">864</stop>
+   </station>
+   <station gearId="67164">
+    <stop startdate="2014-09-22" module="2">865</stop>
+   </station>
+   <station gearId="82773">
+    <stop startdate="2014-09-22" module="2">866</stop>
+   </station>
+   <station gearId="63717">
+    <stop startdate="2015-10-20" module="2">867</stop>
+   </station>
+   <station gearId="59440">
+    <stop startdate="2014-09-22" module="2">868</stop>
+   </station>
+   <station gearId="82892">
+    <stop startdate="2014-09-22" module="2">869</stop>
+   </station>
+   <station gearId="87001">
+    <stop startdate="2014-09-22" module="2">870</stop>
+   </station>
+   <station gearId="60046">
+    <stop startdate="2014-09-22" module="2">871</stop>
+   </station>
+   <station gearId="49141">
+    <stop startdate="2014-09-22" module="2">873</stop>
+   </station>
+   <station gearId="60964">
+    <stop startdate="2014-09-22" module="2">874</stop>
+   </station>
+   <station gearId="75077">
+    <stop startdate="2014-09-22" module="2">875</stop>
+   </station>
+   <station gearId="88155">
+    <stop startdate="2014-09-22" module="2">876</stop>
+   </station>
+   <station gearId="68367">
+    <stop startdate="2014-09-22" module="2">877</stop>
+   </station>
+   <station gearId="59116">
+    <stop startdate="2014-09-22" module="2">878</stop>
+   </station>
+   <station gearId="72189">
+    <stop startdate="2014-09-22" module="2">879</stop>
+   </station>
+   <station gearId="68049">
+    <stop startdate="2014-09-22" module="2">880</stop>
+   </station>
+   <station gearId="77033">
+    <stop startdate="2014-09-22" module="2">881</stop>
+   </station>
+   <station gearId="71914">
+    <stop startdate="2014-09-22" module="2">882</stop>
+   </station>
+   <station gearId="73882">
+    <stop startdate="2014-09-22" module="2">883</stop>
+   </station>
+   <station gearId="83174">
+    <stop startdate="2014-09-22" module="2">884</stop>
+   </station>
+   <station gearId="72123">
+    <stop startdate="2014-09-22" module="2">885</stop>
+   </station>
+   <station gearId="87167">
+    <stop startdate="2014-09-22" module="2">887</stop>
+   </station>
+   <station gearId="901">
+    <stop startdate="2014-09-22" module="2">888</stop>
+   </station>
+   <station gearId="58550">
+    <stop startdate="2014-09-22" module="2">889</stop>
+   </station>
+   <station gearId="80621">
+    <stop startdate="2014-09-22" module="2">890</stop>
+   </station>
+   <station gearId="87000">
+    <stop startdate="2014-09-22" module="2">891</stop>
+   </station>
+   <station gearId="73554">
+    <stop startdate="2014-09-22" module="2">892</stop>
+   </station>
+   <station gearId="82809">
+    <stop startdate="2014-09-22" module="2">893</stop>
+   </station>
+   <station gearId="79610">
+    <stop startdate="2014-09-22" module="2">896</stop>
+   </station>
+   <station gearId="89852">
+    <stop startdate="2014-09-22" module="2">897</stop>
+   </station>
+   <station gearId="89078">
+    <stop startdate="2014-09-22" module="2">898</stop>
+   </station>
+   <station gearId="89507">
+    <stop startdate="2014-09-22" module="2">899</stop>
+   </station>
+   <station gearId="19313">
+    <stop startdate="2014-09-22" module="5">903</stop>
+   </station>
+   <station gearId="19346">
+    <stop startdate="2014-09-22" module="5">904</stop>
+   </station>
+   <station gearId="76302">
+    <stop startdate="2014-09-22" module="5">905</stop>
+   </station>
+   <station gearId="19332">
+    <stop startdate="2014-09-22" module="5">906</stop>
+   </station>
+   <station gearId="26230">
+    <stop startdate="2014-09-22" module="5">907</stop>
+   </station>
+   <station gearId="24378">
+    <stop startdate="2014-09-22" module="5">908</stop>
+   </station>
+   <station gearId="19339">
+    <stop startdate="2014-09-22" module="5">909</stop>
+   </station>
+   <station gearId="26232">
+    <stop startdate="2014-09-22" module="5">910</stop>
+   </station>
+   <station gearId="19344">
+    <stop startdate="2014-09-22" module="5">911</stop>
+   </station>
+   <station gearId="26250">
+    <stop startdate="2014-09-22" module="5">912</stop>
+   </station>
+   <station gearId="26229">
+    <stop startdate="2014-09-22" module="5">913</stop>
+   </station>
+   <station gearId="26221">
+    <stop startdate="2014-09-22" module="5">914</stop>
+   </station>
+   <station gearId="19312">
+    <stop startdate="2014-09-22" module="5">915</stop>
+   </station>
+   <station gearId="31030">
+    <stop startdate="2014-09-22" module="5">916</stop>
+   </station>
+   <station gearId="19310">
+    <stop startdate="2014-09-22" module="5">917</stop>
+   </station>
+   <station gearId="19142">
+    <stop startdate="2014-09-22" module="5">918</stop>
+   </station>
+   <station gearId="31029">
+    <stop startdate="2014-09-22" module="5">919</stop>
+   </station>
+   <station gearId="19311">
+    <stop startdate="2014-09-22" module="5">920</stop>
+   </station>
+   <station gearId="19315">
+    <stop startdate="2014-09-22" module="5">921</stop>
+   </station>
+   <station gearId="43335">
+    <stop startdate="2014-09-22" module="5">922</stop>
+   </station>
+   <station gearId="19328">
+    <stop startdate="2014-09-22" module="5">923</stop>
+   </station>
+   <station gearId="19327">
+    <stop startdate="2014-09-22" module="5">924</stop>
+   </station>
+   <station gearId="19330">
+    <stop startdate="2014-09-22" module="5">925</stop>
+   </station>
+   <station gearId="19329">
+    <stop startdate="2014-09-22" module="5">926</stop>
+   </station>
+   <station gearId="26228">
+    <stop startdate="2014-09-22" module="5">927</stop>
+   </station>
+   <station gearId="19336">
+    <stop startdate="2014-09-22" module="5">928</stop>
+   </station>
+   <station gearId="24405">
+    <stop startdate="2014-09-22" module="5">929</stop>
+   </station>
+   <station gearId="19326">
+    <stop startdate="2014-09-22" module="5">930</stop>
+   </station>
+   <station gearId="44059">
+    <stop startdate="2014-09-22" module="5">931</stop>
+   </station>
+   <station gearId="19325">
+    <stop startdate="2014-09-22" module="5">932</stop>
+   </station>
+   <station gearId="26248">
+    <stop startdate="2014-09-22" module="5">933</stop>
+   </station>
+   <station gearId="19342">
+    <stop startdate="2014-09-22" module="5">934</stop>
+   </station>
+   <station gearId="19319">
+    <stop startdate="2014-09-22" module="5">935</stop>
+   </station>
+   <station gearId="19324">
+    <stop startdate="2014-09-22" module="5">936</stop>
+   </station>
+   <station gearId="24380">
+    <stop startdate="2014-09-22" module="5">937</stop>
+   </station>
+   <station gearId="24382">
+    <stop startdate="2014-09-22" module="5">938</stop>
+   </station>
+   <station gearId="19320">
+    <stop startdate="2014-09-22" module="5">939</stop>
+   </station>
+   <station gearId="19335">
+    <stop startdate="2014-09-22" module="5">940</stop>
+   </station>
+   <station gearId="19317">
+    <stop startdate="2014-09-22" module="5">941</stop>
+   </station>
+   <station gearId="31028">
+    <stop startdate="2014-09-22" module="5">942</stop>
+   </station>
+   <station gearId="19362">
+    <stop startdate="2014-09-22" module="5">943</stop>
+   </station>
+   <station gearId="19357">
+    <stop startdate="2014-09-22" module="5">944</stop>
+   </station>
+   <station gearId="19341">
+    <stop startdate="2014-09-22" module="5">945</stop>
+   </station>
+   <station gearId="83184">
+    <stop startdate="2014-09-22" module="5">946</stop>
+   </station>
+   <station gearId="83186">
+    <stop startdate="2014-09-22" module="5">947</stop>
+   </station>
+   <station gearId="83197">
+    <stop startdate="2014-09-22" module="5">948</stop>
+   </station>
+   <station gearId="14782">
+    <stop startdate="2014-09-22" module="4">950</stop>
+   </station>
+   <station gearId="11211">
+    <stop startdate="2017-02-09" module="4">951</stop>
+   </station>
+   <station gearId="16611">
+    <stop startdate="2017-02-09" module="4">953</stop>
+   </station>
+   <station gearId="12504">
+    <stop startdate="2014-09-22" module="4">957</stop>
+   </station>
+   <station gearId="44076">
+    <stop startdate="2014-09-22" module="4">958</stop>
+   </station>
+   <station gearId="68537">
+    <stop startdate="2014-12-09" module="3">964</stop>
+   </station>
+   <station gearId="76898">
+    <stop startdate="2014-12-09" module="3">965</stop>
+   </station>
+   <station gearId="54335">
+    <stop startdate="2014-12-09" module="3">966</stop>
+   </station>
+   <station gearId="76406">
+    <stop startdate="2014-12-09" module="3">968</stop>
+   </station>
+  </lineup>
+  <asServed>
+   <a>
+    <community>Hillsboro</community>
+    <county code="02079" size="C">Lawrence</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Phil Campbell</community>
+    <county code="02059" size="D">Franklin</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>PHL</community>
+    <county code="02059" size="D">Franklin</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Spruce Pine</community>
+    <county code="02059" size="D">Franklin</county>
+    <s>AL</s>
+   </a>
+  </asServed>
+ </example_head>
+ <example_head example_headId="AL01411">
+  <name>CC</name>
+  <m mId="1">CC</m>
+  <markerId>
+   <markId type="d">522</markId>
+  </markerId>
+  <placards>
+   <placard>31906</placard>
+   <placard>31907</placard>
+   <placard>36852</placard>
+   <placard>36862</placard>
+   <placard>36863</placard>
+   <placard>36874</placard>
+   <placard>36854</placard>
+   <placard>31833</placard>
+  </placards>
+  <location>Lanett</location>
+  <lineup device="X">
+   <station gearId="32046">
+    <stop startdate="2014-05-05" module="1">001</stop>
+    <stop startdate="2017-01-20" module="2">999</stop>
+   </station>
+   <station gearId="11810">
+    <stop startdate="2014-05-05" module="1">003</stop>
+   </station>
+   <station gearId="63560">
+    <stop startdate="2014-05-05" module="1">006</stop>
+    <stop startdate="2014-05-05" module="1">701</stop>
+   </station>
+   <station gearId="11346">
+    <stop startdate="2014-05-05" module="1">007</stop>
+   </station>
+   <station gearId="12003">
+    <stop startdate="2014-05-05" module="1">008</stop>
+   </station>
+   <station gearId="11917">
+    <stop startdate="2014-05-05" module="1">009</stop>
+   </station>
+   <station gearId="18774">
+    <stop startdate="2014-05-05" module="1">011</stop>
+   </station>
+   <station gearId="11586">
+    <stop startdate="2014-05-05" module="1">012</stop>
+   </station>
+   <station gearId="11656">
+    <stop startdate="2014-05-05" module="1">013</stop>
+   </station>
+   <station gearId="34710">
+    <stop startdate="2014-05-05" module="1">014</stop>
+    <stop startdate="2014-05-05" module="2">322</stop>
+   </station>
+   <station gearId="15043">
+    <stop startdate="2014-05-05" module="1">015</stop>
+   </station>
+   <station gearId="91097">
+    <stop startdate="2015-06-23" module="1">016</stop>
+   </station>
+   <station gearId="16604">
+    <stop startdate="2014-05-05" module="1">018</stop>
+    <stop startdate="2017-01-20" module="1">175</stop>
+   </station>
+   <station gearId="11118">
+    <stop startdate="2014-05-05" module="1">019</stop>
+    <stop startdate="2014-05-05" module="1">220</stop>
+   </station>
+   <station gearId="84459">
+    <stop startdate="2017-01-20" module="1">020</stop>
+   </station>
+   <station gearId="16715">
+    <stop startdate="2014-05-05" module="1">022</stop>
+   </station>
+   <station gearId="16615">
+    <stop startdate="2014-05-05" module="1">023</stop>
+    <stop startdate="2014-05-05" module="1">152</stop>
+   </station>
+   <station gearId="68432">
+    <stop startdate="2014-07-29" module="1">024</stop>
+    <stop startdate="2014-07-29" module="1">223</stop>
+    <stop startdate="2014-07-29" module="1">716</stop>
+   </station>
+   <station gearId="10989">
+    <stop startdate="2014-05-05" module="2">025</stop>
+   </station>
+   <station gearId="21484">
+    <stop startdate="2014-05-05" module="2">026</stop>
+   </station>
+   <station gearId="10918">
+    <stop startdate="2014-05-05" module="2">027</stop>
+   </station>
+   <station gearId="18511">
+    <stop startdate="2014-05-05" expDate="2017-06-28" module="2">028</stop>
+    <stop startdate="2014-05-05" expDate="2017-06-28" module="1">128</stop>
+   </station>
+   <station gearId="11164">
+    <stop startdate="2014-05-05" module="2">029</stop>
+   </station>
+   <station gearId="11207">
+    <stop startdate="2014-05-05" module="2">030</stop>
+   </station>
+   <station gearId="14321">
+    <stop startdate="2014-05-05" module="2">031</stop>
+   </station>
+   <station gearId="10179">
+    <stop startdate="2014-05-05" module="2">032</stop>
+    <stop startdate="2014-05-05" module="2">326</stop>
+   </station>
+   <station gearId="12444">
+    <stop startdate="2014-05-05" module="2">033</stop>
+    <stop startdate="2014-05-05" module="2">327</stop>
+   </station>
+   <station gearId="11218">
+    <stop startdate="2014-05-05" module="2">034</stop>
+   </station>
+   <station gearId="11129">
+    <stop startdate="2014-05-05" module="2">035</stop>
+    <stop startdate="2014-05-05" module="2">328</stop>
+   </station>
+   <station gearId="20789">
+    <stop startdate="2014-05-05" module="2">036</stop>
+    <stop startdate="2014-05-05" module="2">321</stop>
+   </station>
+   <station gearId="89535">
+    <stop startdate="2014-08-14" module="2">037</stop>
+    <stop startdate="2014-08-14" module="2">308</stop>
+   </station>
+   <station gearId="10986">
+    <stop startdate="2014-05-05" module="2">038</stop>
+   </station>
+   <station gearId="11867">
+    <stop startdate="2014-05-05" module="2">039</stop>
+   </station>
+   <station gearId="82541">
+    <stop startdate="2014-05-05" module="2">040</stop>
+    <stop startdate="2014-05-05" module="2">305</stop>
+   </station>
+   <station gearId="11187">
+    <stop startdate="2014-05-05" module="2">041</stop>
+   </station>
+   <station gearId="10139">
+    <stop startdate="2014-05-05" module="2">042</stop>
+   </station>
+   <station gearId="16300">
+    <stop startdate="2014-05-05" module="2">043</stop>
+   </station>
+   <station gearId="10142">
+    <stop startdate="2014-05-05" module="2">044</stop>
+   </station>
+   <station gearId="10145">
+    <stop startdate="2014-05-05" module="2">045</stop>
+   </station>
+   <station gearId="16374">
+    <stop startdate="2014-05-05" module="2">046</stop>
+   </station>
+   <station gearId="14771">
+    <stop startdate="2014-05-05" module="2">047</stop>
+   </station>
+   <station gearId="10153">
+    <stop startdate="2014-05-05" module="2">048</stop>
+   </station>
+   <station gearId="10035">
+    <stop startdate="2014-05-05" module="2">049</stop>
+   </station>
+   <station gearId="10057">
+    <stop startdate="2014-05-05" module="2">050</stop>
+   </station>
+   <station gearId="10021">
+    <stop startdate="2014-05-05" module="2">051</stop>
+   </station>
+   <station gearId="10051">
+    <stop startdate="2014-05-05" module="2">052</stop>
+   </station>
+   <station gearId="11150">
+    <stop startdate="2014-05-05" module="2">053</stop>
+   </station>
+   <station gearId="24959">
+    <stop startdate="2014-05-05" module="2">054</stop>
+   </station>
+   <station gearId="11158">
+    <stop startdate="2014-05-05" module="2">055</stop>
+   </station>
+   <station gearId="11180">
+    <stop startdate="2014-05-05" module="2">056</stop>
+   </station>
+   <station gearId="12574">
+    <stop startdate="2014-05-05" module="2">057</stop>
+   </station>
+   <station gearId="14902">
+    <stop startdate="2014-05-05" module="2">058</stop>
+   </station>
+   <station gearId="16123">
+    <stop startdate="2014-05-05" module="2">059</stop>
+   </station>
+   <station gearId="10138">
+    <stop startdate="2014-05-05" module="2">060</stop>
+   </station>
+   <station gearId="10093">
+    <stop startdate="2014-05-05" module="2">061</stop>
+   </station>
+   <station gearId="16331">
+    <stop startdate="2014-05-05" module="2">062</stop>
+   </station>
+   <station gearId="10171">
+    <stop startdate="2014-05-05" module="2">063</stop>
+   </station>
+   <station gearId="11006">
+    <stop startdate="2014-05-05" module="2">064</stop>
+   </station>
+   <station gearId="12131">
+    <stop startdate="2014-05-05" module="2">065</stop>
+    <stop startdate="2014-07-29" module="1">205</stop>
+   </station>
+   <station gearId="10149">
+    <stop startdate="2014-05-05" module="2">066</stop>
+   </station>
+   <station gearId="11097">
+    <stop startdate="2014-05-05" module="2">067</stop>
+   </station>
+   <station gearId="11163">
+    <stop startdate="2014-05-05" module="2">068</stop>
+   </station>
+   <station gearId="14909">
+    <stop startdate="2014-05-05" module="2">069</stop>
+   </station>
+   <station gearId="18279">
+    <stop startdate="2014-05-05" module="2">070</stop>
+    <stop startdate="2014-05-05" module="1">121</stop>
+    <stop startdate="2014-07-29" module="1">206</stop>
+   </station>
+   <station gearId="74796">
+    <stop startdate="2014-05-05" module="2">071</stop>
+    <stop startdate="2014-05-05" module="1">123</stop>
+   </station>
+   <station gearId="19211">
+    <stop startdate="2014-05-05" module="2">072</stop>
+    <stop startdate="2014-05-05" module="1">117</stop>
+   </station>
+   <station gearId="30420">
+    <stop startdate="2014-05-05" module="2">073</stop>
+    <stop startdate="2014-05-05" module="1">120</stop>
+   </station>
+   <station gearId="59036">
+    <stop startdate="2014-05-05" module="2">074</stop>
+    <stop startdate="2014-05-05" module="1">118</stop>
+   </station>
+   <station gearId="16618">
+    <stop startdate="2014-05-05" module="2">075</stop>
+    <stop startdate="2014-05-05" module="1">124</stop>
+   </station>
+   <station gearId="11066">
+    <stop startdate="2014-05-05" module="2">076</stop>
+    <stop startdate="2014-05-05" module="1">113</stop>
+   </station>
+   <station gearId="58649">
+    <stop startdate="2014-05-05" module="2">077</stop>
+    <stop startdate="2014-05-05" module="1">107</stop>
+   </station>
+   <station gearId="16361">
+    <stop startdate="2014-05-05" module="2">079</stop>
+    <stop startdate="2017-01-20" module="1">136</stop>
+    <stop startdate="2014-05-05" module="1">142</stop>
+   </station>
+   <station gearId="62079">
+    <stop startdate="2014-05-05" module="2">080</stop>
+    <stop startdate="2014-05-05" module="2">320</stop>
+   </station>
+   <station gearId="14899">
+    <stop startdate="2014-05-05" module="2">081</stop>
+    <stop startdate="2014-05-05" module="2">312</stop>
+   </station>
+   <station gearId="15952">
+    <stop startdate="2014-05-05" module="2">082</stop>
+    <stop startdate="2014-05-05" module="2">318</stop>
+   </station>
+   <station gearId="18284">
+    <stop startdate="2014-05-05" module="2">083</stop>
+    <stop startdate="2014-05-05" module="1">154</stop>
+   </station>
+   <station gearId="17927">
+    <stop startdate="2014-05-05" module="2">084</stop>
+   </station>
+   <station gearId="70387">
+    <stop startdate="2014-05-05" module="2">086</stop>
+    <stop startdate="2014-05-05" module="1">153</stop>
+   </station>
+   <station gearId="18480">
+    <stop startdate="2014-05-05" module="2">087</stop>
+    <stop startdate="2014-05-05" module="1">139</stop>
+   </station>
+   <station gearId="61522">
+    <stop startdate="2014-05-05" module="2">088</stop>
+    <stop startdate="2014-05-05" module="1">138</stop>
+   </station>
+   <station gearId="14755">
+    <stop startdate="2014-05-05" module="2">089</stop>
+    <stop startdate="2014-05-05" module="1">106</stop>
+   </station>
+   <station gearId="12852">
+    <stop startdate="2014-05-05" module="2">090</stop>
+    <stop startdate="2014-05-05" module="1">164</stop>
+   </station>
+   <station gearId="10201">
+    <stop startdate="2014-05-05" module="2">091</stop>
+    <stop startdate="2014-05-05" module="3">602</stop>
+   </station>
+   <station gearId="49751">
+    <stop startdate="2014-05-05" module="2">092</stop>
+    <stop startdate="2014-05-05" module="3">661</stop>
+   </station>
+   <station gearId="49767">
+    <stop startdate="2014-05-05" module="2">093</stop>
+    <stop startdate="2014-05-05" module="3">662</stop>
+   </station>
+   <station gearId="15295">
+    <stop startdate="2014-05-05" module="2">094</stop>
+    <stop startdate="2014-05-05" module="3">663</stop>
+   </station>
+   <station gearId="10161">
+    <stop startdate="2014-05-05" module="2">095</stop>
+   </station>
+   <station gearId="10162">
+    <stop startdate="2014-05-05" module="2">096</stop>
+   </station>
+   <station gearId="17665">
+    <stop startdate="2014-05-05" module="2">097</stop>
+   </station>
+   <station gearId="11221">
+    <stop startdate="2014-05-05" module="2">098</stop>
+    <stop startdate="2014-05-05" module="1">137</stop>
+   </station>
+   <station gearId="10146">
+    <stop startdate="2014-05-05" module="1">100</stop>
+   </station>
+   <station gearId="68436">
+    <stop startdate="2016-11-18" module="1">102</stop>
+   </station>
+   <station gearId="82728">
+    <stop startdate="2016-11-18" module="1">103</stop>
+   </station>
+   <station gearId="101664">
+    <stop startdate="2016-12-13" module="1">104</stop>
+    <stop startdate="2016-12-13" module="2">763</stop>
+   </station>
+   <station gearId="10188">
+    <stop startdate="2014-05-05" module="1">105</stop>
+   </station>
+   <station gearId="11069">
+    <stop startdate="2017-01-20" module="1">108</stop>
+   </station>
+   <station gearId="50338">
+    <stop startdate="2015-04-28" module="1">109</stop>
+   </station>
+   <station gearId="21855">
+    <stop startdate="2017-01-20" module="1">110</stop>
+   </station>
+   <station gearId="21781">
+    <stop startdate="2014-05-05" module="1">112</stop>
+   </station>
+   <station gearId="19026">
+    <stop startdate="2014-05-05" module="1">114</stop>
+   </station>
+   <station gearId="10183">
+    <stop startdate="2014-05-05" module="1">115</stop>
+   </station>
+   <station gearId="14767">
+    <stop startdate="2014-05-05" module="1">116</stop>
+   </station>
+   <station gearId="11007">
+    <stop startdate="2014-05-05" module="1">119</stop>
+   </station>
+   <station gearId="47540">
+    <stop startdate="2014-05-05" module="1">122</stop>
+   </station>
+   <station gearId="16409">
+    <stop startdate="2014-05-05" module="1">125</stop>
+   </station>
+   <station gearId="21883">
+    <stop startdate="2014-05-05" module="1">126</stop>
+   </station>
+   <station gearId="48999">
+    <stop startdate="2017-01-20" module="1">129</stop>
+   </station>
+   <station gearId="16125">
+    <stop startdate="2014-05-05" module="1">130</stop>
+   </station>
+   <station gearId="18544">
+    <stop startdate="2014-05-05" module="1">131</stop>
+   </station>
+   <station gearId="26849">
+    <stop startdate="2017-01-20" module="1">132</stop>
+   </station>
+   <station gearId="18332">
+    <stop startdate="2014-05-05" module="1">133</stop>
+   </station>
+   <station gearId="36844">
+    <stop startdate="2014-05-05" expDate="2017-06-19" module="1">134</stop>
+   </station>
+   <station gearId="89542">
+    <stop startdate="2017-06-19" module="1">134</stop>
+   </station>
+   <station gearId="66804">
+    <stop startdate="2014-05-05" module="1">135</stop>
+   </station>
+   <station gearId="48543">
+    <stop startdate="2017-01-20" module="1">136</stop>
+   </station>
+   <station gearId="46762">
+    <stop startdate="2014-05-05" module="1">140</stop>
+   </station>
+   <station gearId="44228">
+    <stop startdate="2014-05-05" module="1">141</stop>
+   </station>
+   <station gearId="30419">
+    <stop startdate="2014-05-05" module="1">143</stop>
+   </station>
+   <station gearId="18718">
+    <stop startdate="2014-05-05" module="1">144</stop>
+   </station>
+   <station gearId="14897">
+    <stop startdate="2014-05-05" module="1">145</stop>
+   </station>
+   <station gearId="30418">
+    <stop startdate="2014-05-05" module="1">146</stop>
+   </station>
+   <station gearId="22561">
+    <stop startdate="2014-05-05" module="1">147</stop>
+   </station>
+   <station gearId="18717">
+    <stop startdate="2014-05-05" module="1">148</stop>
+   </station>
+   <station gearId="16062">
+    <stop startdate="2014-05-05" module="1">149</stop>
+   </station>
+   <station gearId="65799">
+    <stop startdate="2014-05-05" module="1">150</stop>
+   </station>
+   <station gearId="16616">
+    <stop startdate="2014-05-05" module="1">151</stop>
+   </station>
+   <station gearId="14929">
+    <stop startdate="2014-05-05" module="1">155</stop>
+   </station>
+   <station gearId="25148">
+    <stop startdate="2015-10-20" module="1">156</stop>
+   </station>
+   <station gearId="67676">
+    <stop startdate="2015-01-27" module="2">157</stop>
+   </station>
+   <station gearId="15807">
+    <stop startdate="2016-09-27" module="1">158</stop>
+   </station>
+   <station gearId="14948">
+    <stop startdate="2016-11-15" module="1">159</stop>
+   </station>
+   <station gearId="16108">
+    <stop startdate="2014-05-05" module="1">160</stop>
+   </station>
+   <station gearId="14873">
+    <stop startdate="2014-05-05" module="1">161</stop>
+   </station>
+   <station gearId="10269">
+    <stop startdate="2016-11-15" module="1">162</stop>
+   </station>
+   <station gearId="14988">
+    <stop startdate="2014-05-05" module="1">163</stop>
+   </station>
+   <station gearId="56032">
+    <stop startdate="2015-06-02" module="1">165</stop>
+   </station>
+   <station gearId="16617">
+    <stop startdate="2014-05-05" module="1">167</stop>
+   </station>
+   <station gearId="30156">
+    <stop startdate="2014-05-05" module="1">168</stop>
+   </station>
+   <station gearId="76126">
+    <stop startdate="2017-01-20" module="1">169</stop>
+   </station>
+   <station gearId="35513">
+    <stop startdate="2014-05-05" module="1">171</stop>
+   </station>
+   <station gearId="18262">
+    <stop startdate="2016-12-06" module="1">172</stop>
+   </station>
+   <station gearId="52199">
+    <stop startdate="2014-05-05" module="1">173</stop>
+   </station>
+   <station gearId="55205">
+    <stop startdate="2015-06-23" expDate="2017-06-23" module="2">174</stop>
+   </station>
+   <station gearId="59086">
+    <stop startdate="2016-04-12" module="1">176</stop>
+    <stop startdate="2017-01-20" module="1">184</stop>
+   </station>
+   <station gearId="18822">
+    <stop startdate="2014-05-05" module="1">177</stop>
+   </station>
+   <station gearId="16834">
+    <stop startdate="2014-05-05" module="1">178</stop>
+   </station>
+   <station gearId="10270">
+    <stop startdate="2017-01-20" module="1">179</stop>
+   </station>
+   <station gearId="23441">
+    <stop startdate="2014-05-05" module="1">180</stop>
+   </station>
+   <station gearId="14789">
+    <stop startdate="2016-02-09" module="2">181</stop>
+   </station>
+   <station gearId="83097">
+    <stop startdate="2017-01-20" module="1">182</stop>
+   </station>
+   <station gearId="82682">
+    <stop startdate="2017-01-20" module="1">183</stop>
+   </station>
+   <station gearId="44940">
+    <stop startdate="2017-01-20" module="1">185</stop>
+   </station>
+   <station gearId="21345">
+    <stop startdate="2017-01-20" module="1">186</stop>
+   </station>
+   <station gearId="49434">
+    <stop startdate="2014-05-05" module="1">188</stop>
+   </station>
+   <station gearId="52202">
+    <stop startdate="2014-05-05" module="1">189</stop>
+   </station>
+   <station gearId="47974">
+    <stop startdate="2014-05-05" module="1">190</stop>
+   </station>
+   <station gearId="67782">
+    <stop startdate="2014-05-05" module="1">191</stop>
+    <stop startdate="2014-05-05" module="1">224</stop>
+   </station>
+   <station gearId="91573">
+    <stop startdate="2017-01-20" module="1">192</stop>
+   </station>
+   <station gearId="19247">
+    <stop startdate="2014-05-05" module="1">200</stop>
+   </station>
+   <station gearId="58631">
+    <stop startdate="2014-05-05" module="1">201</stop>
+   </station>
+   <station gearId="15377">
+    <stop startdate="2014-05-05" module="1">202</stop>
+   </station>
+   <station gearId="25595">
+    <stop startdate="2014-05-05" module="1">203</stop>
+   </station>
+   <station gearId="18715">
+    <stop startdate="2014-05-05" module="1">204</stop>
+   </station>
+   <station gearId="58428">
+    <stop startdate="2014-05-05" module="1">207</stop>
+   </station>
+   <station gearId="44714">
+    <stop startdate="2014-05-05" module="1">208</stop>
+   </station>
+   <station gearId="90917">
+    <stop startdate="2014-12-16" module="2">209</stop>
+   </station>
+   <station gearId="50852">
+    <stop startdate="2014-05-05" module="1">210</stop>
+   </station>
+   <station gearId="36139">
+    <stop startdate="2014-05-05" module="1">211</stop>
+   </station>
+   <station gearId="91060">
+    <stop startdate="2016-07-12" module="2">212</stop>
+   </station>
+   <station gearId="54867">
+    <stop startdate="2014-05-05" module="1">213</stop>
+   </station>
+   <station gearId="35401">
+    <stop startdate="2014-05-05" module="1">214</stop>
+   </station>
+   <station gearId="33628">
+    <stop startdate="2014-05-05" module="1">215</stop>
+   </station>
+   <station gearId="43362">
+    <stop startdate="2014-05-05" module="1">216</stop>
+   </station>
+   <station gearId="17142">
+    <stop startdate="2014-05-05" module="1">217</stop>
+   </station>
+   <station gearId="32161">
+    <stop startdate="2014-05-05" module="1">218</stop>
+   </station>
+   <station gearId="14791">
+    <stop startdate="2014-05-05" module="1">219</stop>
+   </station>
+   <station gearId="10222">
+    <stop startdate="2014-07-29" module="1">221</stop>
+   </station>
+   <station gearId="33669">
+    <stop startdate="2014-05-05" module="1">222</stop>
+   </station>
+   <station gearId="83173">
+    <stop startdate="2014-05-05" module="2">225</stop>
+   </station>
+   <station gearId="74550">
+    <stop startdate="2014-06-26" module="2">226</stop>
+   </station>
+   <station gearId="75176">
+    <stop startdate="2014-05-05" module="2">227</stop>
+   </station>
+   <station gearId="76964">
+    <stop startdate="2014-07-29" module="2">228</stop>
+   </station>
+   <station gearId="76943">
+    <stop startdate="2017-01-20" module="2">229</stop>
+    <stop startdate="2017-01-20" module="2">313</stop>
+   </station>
+   <station gearId="34863">
+    <stop startdate="2014-07-29" module="2">230</stop>
+   </station>
+   <station gearId="70337">
+    <stop startdate="2015-10-01" module="2">231</stop>
+   </station>
+   <station gearId="68356">
+    <stop startdate="2014-07-29" module="2">232</stop>
+   </station>
+   <station gearId="25347">
+    <stop startdate="2014-07-29" module="2">233</stop>
+   </station>
+   <station gearId="25615">
+    <stop startdate="2014-09-17" module="2">234</stop>
+   </station>
+   <station gearId="52208">
+    <stop startdate="2014-07-29" module="2">235</stop>
+   </station>
+   <station gearId="62401">
+    <stop startdate="2014-07-29" module="2">236</stop>
+   </station>
+   <station gearId="50500">
+    <stop startdate="2016-09-12" module="2">237</stop>
+   </station>
+   <station gearId="34393">
+    <stop startdate="2014-07-29" module="2">238</stop>
+   </station>
+   <station gearId="73812">
+    <stop startdate="2014-07-29" module="2">240</stop>
+   </station>
+   <station gearId="84172">
+    <stop startdate="2014-12-16" module="2">241</stop>
+   </station>
+   <station gearId="72449">
+    <stop startdate="2014-07-29" module="2">242</stop>
+    <stop startdate="2017-01-20" module="2">264</stop>
+   </station>
+   <station gearId="34344">
+    <stop startdate="2014-05-05" module="2">243</stop>
+   </station>
+   <station gearId="34394">
+    <stop startdate="2014-07-29" module="2">245</stop>
+   </station>
+   <station gearId="52649">
+    <stop startdate="2014-05-05" module="2">246</stop>
+   </station>
+   <station gearId="33527">
+    <stop startdate="2014-07-29" module="2">247</stop>
+   </station>
+   <station gearId="73318">
+    <stop startdate="2016-10-13" module="1">248</stop>
+   </station>
+   <station gearId="12750">
+    <stop startdate="2014-07-29" module="2">249</stop>
+   </station>
+   <station gearId="97042">
+    <stop startdate="2016-03-30" module="2">2495</stop>
+   </station>
+   <station gearId="44448">
+    <stop startdate="2014-07-29" module="2">250</stop>
+   </station>
+   <station gearId="16046">
+    <stop startdate="2014-07-29" module="2">251</stop>
+    <stop startdate="2014-09-18" module="2">833</stop>
+   </station>
+   <station gearId="33431">
+    <stop startdate="2014-07-29" module="2">252</stop>
+   </station>
+   <station gearId="48523">
+    <stop startdate="2014-07-29" module="2">253</stop>
+   </station>
+   <station gearId="39719">
+    <stop startdate="2017-01-20" module="2">254</stop>
+   </station>
+   <station gearId="88506">
+    <stop startdate="2014-09-17" module="2">255</stop>
+   </station>
+   <station gearId="47499">
+    <stop startdate="2014-09-17" module="2">256</stop>
+   </station>
+   <station gearId="65809">
+    <stop startdate="2014-09-17" module="2">257</stop>
+   </station>
+   <station gearId="16800">
+    <stop startdate="2014-09-17" module="2">258</stop>
+   </station>
+   <station gearId="50263">
+    <stop startdate="2014-09-17" module="2">259</stop>
+   </station>
+   <station gearId="24515">
+    <stop startdate="2014-09-17" module="2">260</stop>
+   </station>
+   <station gearId="78831">
+    <stop startdate="2015-09-15" module="1">261</stop>
+   </station>
+   <station gearId="44644">
+    <stop startdate="2017-01-20" module="2">262</stop>
+   </station>
+   <station gearId="46753">
+    <stop startdate="2017-01-20" module="2">265</stop>
+   </station>
+   <station gearId="45243">
+    <stop startdate="2017-01-20" module="2">266</stop>
+   </station>
+   <station gearId="49022">
+    <stop startdate="2017-01-20" module="2">267</stop>
+   </station>
+   <station gearId="49262">
+    <stop startdate="2017-01-20" module="2">268</stop>
+   </station>
+   <station gearId="16217">
+    <stop startdate="2017-01-20" module="2">269</stop>
+   </station>
+   <station gearId="44322">
+    <stop startdate="2017-01-20" module="2">270</stop>
+   </station>
+   <station gearId="74492">
+    <stop startdate="2014-09-17" module="2">289</stop>
+   </station>
+   <station gearId="19059">
+    <stop startdate="2014-07-29" module="2">290</stop>
+   </station>
+   <station gearId="90216">
+    <stop startdate="2014-09-17" module="2">291</stop>
+   </station>
+   <station gearId="14763">
+    <stop startdate="2014-07-29" module="2">292</stop>
+   </station>
+   <station gearId="18644">
+    <stop startdate="2014-07-29" module="2">295</stop>
+   </station>
+   <station gearId="68605">
+    <stop startdate="2014-07-29" module="2">296</stop>
+   </station>
+   <station gearId="44852">
+    <stop startdate="2014-07-29" module="2">297</stop>
+   </station>
+   <station gearId="12324">
+    <stop startdate="2014-05-05" module="2">298</stop>
+   </station>
+   <station gearId="72761">
+    <stop startdate="2014-05-05" module="2">299</stop>
+   </station>
+   <station gearId="16485">
+    <stop startdate="2014-05-05" module="2">300</stop>
+   </station>
+   <station gearId="26077">
+    <stop startdate="2014-05-05" module="2">301</stop>
+   </station>
+   <station gearId="26078">
+    <stop startdate="2014-05-05" module="2">302</stop>
+   </station>
+   <station gearId="26079">
+    <stop startdate="2014-05-05" module="2">303</stop>
+   </station>
+   <station gearId="33178">
+    <stop startdate="2014-05-05" module="2">304</stop>
+   </station>
+   <station gearId="33395">
+    <stop startdate="2014-05-05" module="2">306</stop>
+   </station>
+   <station gearId="14776">
+    <stop startdate="2014-05-05" module="2">307</stop>
+   </station>
+   <station gearId="58570">
+    <stop startdate="2014-05-05" module="2">309</stop>
+   </station>
+   <station gearId="45654">
+    <stop startdate="2014-05-05" module="2">310</stop>
+   </station>
+   <station gearId="16365">
+    <stop startdate="2014-05-05" module="2">311</stop>
+   </station>
+   <station gearId="33930">
+    <stop startdate="2015-03-10" module="2">314</stop>
+   </station>
+   <station gearId="15451">
+    <stop startdate="2014-05-05" module="2">315</stop>
+   </station>
+   <station gearId="76942">
+    <stop startdate="2017-01-20" module="2">316</stop>
+   </station>
+   <station gearId="45169">
+    <stop startdate="2014-05-05" module="2">317</stop>
+   </station>
+   <station gearId="66879">
+    <stop startdate="2017-01-20" module="2">319</stop>
+   </station>
+   <station gearId="65024">
+    <stop startdate="2014-05-05" module="2">323</stop>
+   </station>
+   <station gearId="56783">
+    <stop startdate="2014-05-05" module="2">324</stop>
+   </station>
+   <station gearId="82452">
+    <stop startdate="2017-01-20" module="2">325</stop>
+   </station>
+   <station gearId="89739">
+    <stop startdate="2014-08-14" module="2">329</stop>
+   </station>
+   <station gearId="94794">
+    <stop startdate="2017-01-20" module="2">330</stop>
+   </station>
+   <station gearId="75219">
+    <stop startdate="2017-01-20" module="2">331</stop>
+   </station>
+   <station gearId="104186">
+    <stop startdate="2017-07-15" module="2">335</stop>
+   </station>
+   <station gearId="26197">
+    <stop startdate="2014-05-05" module="4">360</stop>
+   </station>
+   <station gearId="26198">
+    <stop startdate="2014-05-05" module="4">361</stop>
+   </station>
+   <station gearId="26199">
+    <stop startdate="2014-05-05" module="4">362</stop>
+   </station>
+   <station gearId="26200">
+    <stop startdate="2014-05-05" module="4">363</stop>
+   </station>
+   <station gearId="26201">
+    <stop startdate="2014-05-05" module="4">364</stop>
+   </station>
+   <station gearId="26202">
+    <stop startdate="2014-05-05" module="4">365</stop>
+   </station>
+   <station gearId="26203">
+    <stop startdate="2014-05-05" module="4">366</stop>
+   </station>
+   <station gearId="26204">
+    <stop startdate="2014-05-05" module="4">367</stop>
+   </station>
+   <station gearId="29093">
+    <stop startdate="2014-05-05" module="4">368</stop>
+   </station>
+   <station gearId="31250">
+    <stop startdate="2014-05-05" module="4">369</stop>
+   </station>
+   <station gearId="53701">
+    <stop startdate="2014-05-05" module="4">370</stop>
+   </station>
+   <station gearId="53704">
+    <stop startdate="2014-05-05" module="4">371</stop>
+   </station>
+   <station gearId="53705">
+    <stop startdate="2014-05-05" module="4">372</stop>
+   </station>
+   <station gearId="53708">
+    <stop startdate="2014-05-05" module="4">373</stop>
+   </station>
+   <station gearId="55596">
+    <stop startdate="2016-03-29" module="3">374</stop>
+   </station>
+   <station gearId="66112">
+    <stop startdate="2016-03-29" module="3">375</stop>
+   </station>
+   <station gearId="72810">
+    <stop startdate="2016-03-29" module="3">376</stop>
+   </station>
+   <station gearId="72824">
+    <stop startdate="2016-03-29" module="3">377</stop>
+   </station>
+   <station gearId="72825">
+    <stop startdate="2016-03-29" module="3">378</stop>
+   </station>
+   <station gearId="72826">
+    <stop startdate="2016-03-29" module="3">379</stop>
+   </station>
+   <station gearId="72827">
+    <stop startdate="2016-03-29" module="3">380</stop>
+   </station>
+   <station gearId="72828">
+    <stop startdate="2016-03-29" module="3">381</stop>
+   </station>
+   <station gearId="72829">
+    <stop startdate="2016-03-29" module="3">382</stop>
+   </station>
+   <station gearId="76366">
+    <stop startdate="2017-01-20" module="2">383</stop>
+   </station>
+   <station gearId="76372">
+    <stop startdate="2017-01-20" module="2">384</stop>
+   </station>
+   <station gearId="76370">
+    <stop startdate="2017-01-20" module="2">385</stop>
+   </station>
+   <station gearId="76375">
+    <stop startdate="2017-01-20" module="2">386</stop>
+   </station>
+   <station gearId="76374">
+    <stop startdate="2017-01-20" module="2">387</stop>
+   </station>
+   <station gearId="76371">
+    <stop startdate="2017-01-20" module="2">388</stop>
+   </station>
+   <station gearId="76373">
+    <stop startdate="2017-01-20" module="2">389</stop>
+   </station>
+   <station gearId="82637">
+    <stop startdate="2017-01-20" module="2">390</stop>
+   </station>
+   <station gearId="82752">
+    <stop startdate="2017-01-20" module="2">391</stop>
+   </station>
+   <station gearId="82753">
+    <stop startdate="2017-01-20" module="2">392</stop>
+   </station>
+   <station gearId="82754">
+    <stop startdate="2017-01-20" module="2">393</stop>
+   </station>
+   <station gearId="82756">
+    <stop startdate="2017-01-20" module="2">394</stop>
+   </station>
+   <station gearId="72601">
+    <stop startdate="2015-06-30" module="2">405</stop>
+   </station>
+   <station gearId="60152">
+    <stop startdate="2015-06-30" module="2">406</stop>
+   </station>
+   <station gearId="46463">
+    <stop startdate="2015-06-30" module="2">407</stop>
+   </station>
+   <station gearId="75448">
+    <stop startdate="2015-06-30" module="2">408</stop>
+   </station>
+   <station gearId="80214">
+    <stop startdate="2015-06-30" module="2">409</stop>
+   </station>
+   <station gearId="99702">
+    <stop startdate="2016-05-19" expDate="2017-06-12" module="2">420</stop>
+   </station>
+   <station gearId="55819">
+    <stop startdate="2014-05-05" module="3">500</stop>
+   </station>
+   <station gearId="19548">
+    <stop startdate="2014-05-05" module="3">501</stop>
+   </station>
+   <station gearId="19566">
+    <stop startdate="2014-05-05" module="3">502</stop>
+   </station>
+   <station gearId="59368">
+    <stop startdate="2014-05-05" module="3">503</stop>
+   </station>
+   <station gearId="59355">
+    <stop startdate="2014-05-05" module="3">504</stop>
+   </station>
+   <station gearId="59363">
+    <stop startdate="2014-05-05" module="3">505</stop>
+   </station>
+   <station gearId="59366">
+    <stop startdate="2014-05-05" module="3">506</stop>
+   </station>
+   <station gearId="59357">
+    <stop startdate="2014-05-05" module="3">507</stop>
+   </station>
+   <station gearId="59362">
+    <stop startdate="2014-05-05" module="3">508</stop>
+   </station>
+   <station gearId="59839">
+    <stop startdate="2014-05-05" module="3">509</stop>
+   </station>
+   <station gearId="59841">
+    <stop startdate="2014-05-05" module="3">510</stop>
+   </station>
+   <station gearId="59845">
+    <stop startdate="2014-05-05" module="3">511</stop>
+   </station>
+   <station gearId="59847">
+    <stop startdate="2014-05-05" module="3">512</stop>
+   </station>
+   <station gearId="59837">
+    <stop startdate="2014-05-05" module="3">513</stop>
+   </station>
+   <station gearId="59849">
+    <stop startdate="2014-05-05" module="3">514</stop>
+   </station>
+   <station gearId="38589">
+    <stop startdate="2014-05-05" module="3">517</stop>
+   </station>
+   <station gearId="10240">
+    <stop startdate="2014-05-05" module="3">518</stop>
+   </station>
+   <station gearId="10244">
+    <stop startdate="2014-05-05" module="3">519</stop>
+   </station>
+   <station gearId="10241">
+    <stop startdate="2014-05-05" module="3">520</stop>
+   </station>
+   <station gearId="10243">
+    <stop startdate="2014-05-05" module="3">521</stop>
+   </station>
+   <station gearId="16585">
+    <stop startdate="2014-05-05" module="3">522</stop>
+   </station>
+   <station gearId="18429">
+    <stop startdate="2014-05-05" module="3">523</stop>
+   </station>
+   <station gearId="18431">
+    <stop startdate="2014-05-05" module="3">524</stop>
+   </station>
+   <station gearId="24553">
+    <stop startdate="2014-05-05" module="3">525</stop>
+   </station>
+   <station gearId="62343">
+    <stop startdate="2014-05-05" module="3">530</stop>
+   </station>
+   <station gearId="34933">
+    <stop startdate="2014-05-05" module="3">531</stop>
+   </station>
+   <station gearId="35975">
+    <stop startdate="2014-05-05" module="3">532</stop>
+   </station>
+   <station gearId="59373">
+    <stop startdate="2014-05-05" module="3">533</stop>
+   </station>
+   <station gearId="59375">
+    <stop startdate="2014-05-05" module="3">534</stop>
+   </station>
+   <station gearId="59948">
+    <stop startdate="2014-05-05" module="3">535</stop>
+   </station>
+   <station gearId="59950">
+    <stop startdate="2014-05-05" module="3">536</stop>
+   </station>
+   <station gearId="59954">
+    <stop startdate="2014-05-05" module="3">537</stop>
+   </station>
+   <station gearId="59959">
+    <stop startdate="2014-05-05" module="3">538</stop>
+   </station>
+   <station gearId="59961">
+    <stop startdate="2014-05-05" module="3">539</stop>
+   </station>
+   <station gearId="59963">
+    <stop startdate="2014-05-05" module="3">541</stop>
+   </station>
+   <station gearId="59952">
+    <stop startdate="2014-05-05" module="3">543</stop>
+   </station>
+   <station gearId="59965">
+    <stop startdate="2014-05-05" module="3">545</stop>
+   </station>
+   <station gearId="31571">
+    <stop startdate="2014-05-05" module="3">548</stop>
+   </station>
+   <station gearId="10120">
+    <stop startdate="2014-05-05" module="3">549</stop>
+   </station>
+   <station gearId="12508">
+    <stop startdate="2014-05-05" module="3">550</stop>
+   </station>
+   <station gearId="10121">
+    <stop startdate="2014-05-05" module="3">551</stop>
+   </station>
+   <station gearId="18433">
+    <stop startdate="2014-05-05" module="3">552</stop>
+   </station>
+   <station gearId="18435">
+    <stop startdate="2014-05-05" module="3">553</stop>
+   </station>
+   <station gearId="25620">
+    <stop startdate="2014-05-05" module="3">554</stop>
+   </station>
+   <station gearId="25621">
+    <stop startdate="2014-05-05" module="3">555</stop>
+   </station>
+   <station gearId="25622">
+    <stop startdate="2014-05-05" module="3">556</stop>
+   </station>
+   <station gearId="25623">
+    <stop startdate="2014-05-05" module="3">557</stop>
+   </station>
+   <station gearId="55817">
+    <stop startdate="2014-05-05" module="3">560</stop>
+   </station>
+   <station gearId="21868">
+    <stop startdate="2014-05-05" module="3">561</stop>
+   </station>
+   <station gearId="22532">
+    <stop startdate="2014-05-05" module="3">562</stop>
+   </station>
+   <station gearId="58533">
+    <stop startdate="2014-05-05" module="3">563</stop>
+   </station>
+   <station gearId="60953">
+    <stop startdate="2014-05-05" module="3">564</stop>
+   </station>
+   <station gearId="61001">
+    <stop startdate="2014-05-05" module="3">565</stop>
+   </station>
+   <station gearId="61064">
+    <stop startdate="2014-05-05" module="3">566</stop>
+   </station>
+   <station gearId="68340">
+    <stop startdate="2014-05-05" module="3">567</stop>
+   </station>
+   <station gearId="60947">
+    <stop startdate="2014-05-05" module="3">569</stop>
+   </station>
+   <station gearId="60945">
+    <stop startdate="2014-05-05" module="3">570</stop>
+   </station>
+   <station gearId="68338">
+    <stop startdate="2014-05-05" module="3">571</stop>
+   </station>
+   <station gearId="68342">
+    <stop startdate="2014-05-05" module="3">573</stop>
+   </station>
+   <station gearId="32026">
+    <stop startdate="2014-05-05" module="3">577</stop>
+   </station>
+   <station gearId="11115">
+    <stop startdate="2014-05-05" module="3">578</stop>
+   </station>
+   <station gearId="11117">
+    <stop startdate="2014-05-05" module="3">579</stop>
+   </station>
+   <station gearId="11116">
+    <stop startdate="2014-05-05" module="3">580</stop>
+   </station>
+   <station gearId="16153">
+    <stop startdate="2014-05-05" module="3">581</stop>
+   </station>
+   <station gearId="20622">
+    <stop startdate="2014-05-05" module="3">582</stop>
+   </station>
+   <station gearId="18086">
+    <stop startdate="2014-05-05" module="3">583</stop>
+   </station>
+   <station gearId="25272">
+    <stop startdate="2014-05-05" module="3">584</stop>
+   </station>
+   <station gearId="25270">
+    <stop startdate="2014-05-05" module="3">585</stop>
+   </station>
+   <station gearId="35329">
+    <stop startdate="2014-05-05" module="3">591</stop>
+   </station>
+   <station gearId="50600">
+    <stop startdate="2014-05-05" module="3">592</stop>
+   </station>
+   <station gearId="60951">
+    <stop startdate="2014-05-05" module="3">593</stop>
+   </station>
+   <station gearId="60949">
+    <stop startdate="2014-05-05" module="3">594</stop>
+   </station>
+   <station gearId="31570">
+    <stop startdate="2014-05-05" module="3">597</stop>
+   </station>
+   <station gearId="11160">
+    <stop startdate="2014-05-05" module="3">598</stop>
+   </station>
+   <station gearId="17663">
+    <stop startdate="2014-05-05" module="3">599</stop>
+   </station>
+   <station gearId="12509">
+    <stop startdate="2014-05-05" module="3">600</stop>
+   </station>
+   <station gearId="61954">
+    <stop startdate="2014-05-05" module="3">605</stop>
+   </station>
+   <station gearId="34941">
+    <stop startdate="2014-05-05" module="3">606</stop>
+   </station>
+   <station gearId="34949">
+    <stop startdate="2014-05-05" module="3">607</stop>
+   </station>
+   <station gearId="67235">
+    <stop startdate="2014-05-05" module="3">608</stop>
+   </station>
+   <station gearId="57569">
+    <stop startdate="2014-05-05" module="3">610</stop>
+   </station>
+   <station gearId="67236">
+    <stop startdate="2014-05-05" module="3">612</stop>
+   </station>
+   <station gearId="57581">
+    <stop startdate="2014-05-05" module="3">614</stop>
+   </station>
+   <station gearId="57573">
+    <stop startdate="2014-05-05" module="3">616</stop>
+   </station>
+   <station gearId="65631">
+    <stop startdate="2014-05-05" module="3">620</stop>
+   </station>
+   <station gearId="12719">
+    <stop startdate="2014-05-05" module="3">621</stop>
+   </station>
+   <station gearId="12741">
+    <stop startdate="2014-05-05" module="3">622</stop>
+   </station>
+   <station gearId="16833">
+    <stop startdate="2014-05-05" module="3">623</stop>
+   </station>
+   <station gearId="34901">
+    <stop startdate="2014-05-05" module="3">624</stop>
+   </station>
+   <station gearId="19634">
+    <stop startdate="2014-05-05" module="3">625</stop>
+   </station>
+   <station gearId="19635">
+    <stop startdate="2014-05-05" module="3">626</stop>
+   </station>
+   <station gearId="16311">
+    <stop startdate="2014-05-05" module="3">627</stop>
+   </station>
+   <station gearId="36225">
+    <stop startdate="2014-05-05" module="3">631</stop>
+   </station>
+   <station gearId="67237">
+    <stop startdate="2014-05-05" module="3">632</stop>
+   </station>
+   <station gearId="72015">
+    <stop startdate="2014-05-05" module="3">633</stop>
+   </station>
+   <station gearId="83404">
+    <stop startdate="2014-05-05" module="3">635</stop>
+   </station>
+   <station gearId="83076">
+    <stop startdate="2014-05-05" module="3">637</stop>
+   </station>
+   <station gearId="72014">
+    <stop startdate="2014-05-05" module="3">639</stop>
+   </station>
+   <station gearId="10178">
+    <stop startdate="2014-05-05" module="3">644</stop>
+   </station>
+   <station gearId="17125">
+    <stop startdate="2014-05-05" module="3">645</stop>
+   </station>
+   <station gearId="14871">
+    <stop startdate="2014-05-05" module="3">646</stop>
+   </station>
+   <station gearId="14764">
+    <stop startdate="2014-05-05" module="3">647</stop>
+   </station>
+   <station gearId="14765">
+    <stop startdate="2014-05-05" module="3">648</stop>
+   </station>
+   <station gearId="14766">
+    <stop startdate="2014-05-05" module="3">649</stop>
+   </station>
+   <station gearId="14870">
+    <stop startdate="2014-05-05" module="3">650</stop>
+   </station>
+   <station gearId="14886">
+    <stop startdate="2014-05-05" module="3">651</stop>
+   </station>
+   <station gearId="72016">
+    <stop startdate="2014-05-05" module="3">652</stop>
+   </station>
+   <station gearId="65795">
+    <stop startdate="2014-05-05" module="3">656</stop>
+   </station>
+   <station gearId="65791">
+    <stop startdate="2014-05-05" module="3">657</stop>
+   </station>
+   <station gearId="83075">
+    <stop startdate="2014-05-05" module="3">658</stop>
+   </station>
+   <station gearId="72182">
+    <stop startdate="2014-05-05" module="3">670</stop>
+   </station>
+   <station gearId="65687">
+    <stop startdate="2014-05-05" module="3">671</stop>
+   </station>
+   <station gearId="66075">
+    <stop startdate="2014-05-05" module="3">672</stop>
+   </station>
+   <station gearId="67491">
+    <stop startdate="2014-05-05" module="3">675</stop>
+   </station>
+   <station gearId="65669">
+    <stop startdate="2014-05-05" module="3">676</stop>
+   </station>
+   <station gearId="66073">
+    <stop startdate="2014-05-05" module="3">677</stop>
+   </station>
+   <station gearId="76382">
+    <stop startdate="2017-01-20" module="2">686</stop>
+   </station>
+   <station gearId="76376">
+    <stop startdate="2017-01-20" module="2">687</stop>
+   </station>
+   <station gearId="76377">
+    <stop startdate="2017-01-20" module="2">688</stop>
+   </station>
+   <station gearId="76381">
+    <stop startdate="2017-01-20" module="2">689</stop>
+   </station>
+   <station gearId="76380">
+    <stop startdate="2017-01-20" module="2">690</stop>
+   </station>
+   <station gearId="76378">
+    <stop startdate="2017-01-20" module="2">9</stop>
+   </station>
+   <station gearId="76379">
+    <stop startdate="2017-01-20" module="2">692</stop>
+   </station>
+   <station gearId="82617">
+    <stop startdate="2017-01-20" module="2">693</stop>
+   </station>
+   <station gearId="82618">
+    <stop startdate="2017-01-20" module="2">694</stop>
+   </station>
+   <station gearId="82619">
+    <stop startdate="2017-01-20" module="2">695</stop>
+   </station>
+   <station gearId="82620">
+    <stop startdate="2017-01-20" module="2">696</stop>
+   </station>
+   <station gearId="82621">
+    <stop startdate="2017-01-20" module="2">697</stop>
+   </station>
+   <station gearId="104089">
+    <stop startdate="2017-07-15" module="2">698</stop>
+   </station>
+   <station gearId="32593">
+    <stop startdate="2014-05-05" module="1">703</stop>
+   </station>
+   <station gearId="60222">
+    <stop startdate="2014-05-05" module="1">704</stop>
+   </station>
+   <station gearId="30621">
+    <stop startdate="2014-05-05" module="1">708</stop>
+   </station>
+   <station gearId="34794">
+    <stop startdate="2014-05-05" module="1">709</stop>
+   </station>
+   <station gearId="62077">
+    <stop startdate="2014-05-05" module="1">710</stop>
+   </station>
+   <station gearId="62719">
+    <stop startdate="2014-05-05" module="1">712</stop>
+   </station>
+   <station gearId="30604">
+    <stop startdate="2014-05-05" module="1">713</stop>
+   </station>
+   <station gearId="76950">
+    <stop startdate="2017-01-20" module="2">715</stop>
+   </station>
+   <station gearId="65556">
+    <stop startdate="2014-05-05" module="1">717</stop>
+   </station>
+   <station gearId="82547">
+    <stop startdate="2014-05-05" module="2">718</stop>
+   </station>
+   <station gearId="59305">
+    <stop startdate="2014-05-05" module="2">719</stop>
+   </station>
+   <station gearId="32645">
+    <stop startdate="2014-05-05" module="2">720</stop>
+   </station>
+   <station gearId="45507">
+    <stop startdate="2014-05-05" module="2">721</stop>
+   </station>
+   <station gearId="65466">
+    <stop startdate="2014-05-05" module="2">722</stop>
+   </station>
+   <station gearId="61138">
+    <stop startdate="2014-05-05" module="2">723</stop>
+   </station>
+   <station gearId="62081">
+    <stop startdate="2014-05-05" module="2">724</stop>
+   </station>
+   <station gearId="61854">
+    <stop startdate="2014-05-05" module="2">725</stop>
+   </station>
+   <station gearId="58452">
+    <stop startdate="2014-05-05" module="2">726</stop>
+   </station>
+   <station gearId="58625">
+    <stop startdate="2014-05-05" module="2">727</stop>
+   </station>
+   <station gearId="58623">
+    <stop startdate="2014-05-05" module="2">729</stop>
+   </station>
+   <station gearId="31046">
+    <stop startdate="2014-05-05" module="2">730</stop>
+   </station>
+   <station gearId="42642">
+    <stop startdate="2014-05-05" module="2">731</stop>
+   </station>
+   <station gearId="34763">
+    <stop startdate="2014-05-05" expDate="2017-07-14" module="2">732</stop>
+   </station>
+   <station gearId="49141">
+    <stop startdate="2014-05-05" module="2">733</stop>
+   </station>
+   <station gearId="51529">
+    <stop startdate="2014-05-05" module="2">734</stop>
+   </station>
+   <station gearId="57708">
+    <stop startdate="2014-05-05" module="2">735</stop>
+   </station>
+   <station gearId="58812">
+    <stop startdate="2014-05-05" module="2">736</stop>
+   </station>
+   <station gearId="49788">
+    <stop startdate="2014-05-05" module="2">737</stop>
+   </station>
+   <station gearId="50747">
+    <stop startdate="2014-05-05" module="2">738</stop>
+   </station>
+   <station gearId="57390">
+    <stop startdate="2014-05-05" module="2">739</stop>
+   </station>
+   <station gearId="28506">
+    <stop startdate="2014-05-05" module="2">740</stop>
+   </station>
+   <station gearId="33668">
+    <stop startdate="2014-05-05" module="2">741</stop>
+   </station>
+   <station gearId="59337">
+    <stop startdate="2014-05-05" module="2">742</stop>
+   </station>
+   <station gearId="59444">
+    <stop startdate="2014-05-05" module="2">743</stop>
+   </station>
+   <station gearId="59296">
+    <stop startdate="2014-05-05" module="2">744</stop>
+   </station>
+   <station gearId="59116">
+    <stop startdate="2014-05-05" module="2">745</stop>
+   </station>
+   <station gearId="56905">
+    <stop startdate="2014-05-05" module="2">746</stop>
+   </station>
+   <station gearId="57391">
+    <stop startdate="2014-05-05" module="2">747</stop>
+   </station>
+   <station gearId="57394">
+    <stop startdate="2014-05-05" module="2">748</stop>
+   </station>
+   <station gearId="67331">
+    <stop startdate="2014-05-05" module="2">749</stop>
+   </station>
+   <station gearId="58532">
+    <stop startdate="2014-05-05" module="2">750</stop>
+   </station>
+   <station gearId="78808">
+    <stop startdate="2014-05-05" module="2">751</stop>
+   </station>
+   <station gearId="72094">
+    <stop startdate="2016-12-06" module="2">752</stop>
+   </station>
+   <station gearId="68065">
+    <stop startdate="2014-05-05" module="2">753</stop>
+   </station>
+   <station gearId="78601">
+    <stop startdate="2014-05-05" module="2">754</stop>
+   </station>
+   <station gearId="68344">
+    <stop startdate="2014-05-05" module="2">755</stop>
+   </station>
+   <station gearId="68334">
+    <stop startdate="2014-05-05" module="2">756</stop>
+   </station>
+   <station gearId="68332">
+    <stop startdate="2014-05-05" module="2">757</stop>
+   </station>
+   <station gearId="59303">
+    <stop startdate="2014-05-05" module="2">758</stop>
+   </station>
+   <station gearId="61469">
+    <stop startdate="2017-01-20" module="2">759</stop>
+   </station>
+   <station gearId="46710">
+    <stop startdate="2014-05-05" module="2">760</stop>
+   </station>
+   <station gearId="60150">
+    <stop startdate="2014-05-05" module="2">761</stop>
+   </station>
+   <station gearId="49438">
+    <stop startdate="2014-05-05" module="2">762</stop>
+   </station>
+   <station gearId="66143">
+    <stop startdate="2017-01-20" module="2">764</stop>
+   </station>
+   <station gearId="62420">
+    <stop startdate="2014-05-05" module="2">765</stop>
+   </station>
+   <station gearId="70388">
+    <stop startdate="2014-05-05" module="2">766</stop>
+   </station>
+   <station gearId="82649">
+    <stop startdate="2014-05-05" module="2">767</stop>
+   </station>
+   <station gearId="67749">
+    <stop startdate="2014-05-05" module="2">768</stop>
+   </station>
+   <station gearId="65732">
+    <stop startdate="2014-05-05" module="2">769</stop>
+   </station>
+   <station gearId="64492">
+    <stop startdate="2014-05-05" module="2">770</stop>
+   </station>
+   <station gearId="65342">
+    <stop startdate="2014-05-05" module="2">771</stop>
+   </station>
+   <station gearId="64490">
+    <stop startdate="2014-05-05" module="2">772</stop>
+   </station>
+   <station gearId="60468">
+    <stop startdate="2014-05-05" module="2">773</stop>
+   </station>
+   <station gearId="58988">
+    <stop startdate="2014-05-05" module="2">774</stop>
+   </station>
+   <station gearId="73541">
+    <stop startdate="2014-05-05" module="2">776</stop>
+   </station>
+   <station gearId="67375">
+    <stop startdate="2014-05-05" module="2">777</stop>
+   </station>
+   <station gearId="58515">
+    <stop startdate="2014-05-05" module="2">780</stop>
+   </station>
+   <station gearId="93564">
+    <stop startdate="2015-06-02" module="2">781</stop>
+   </station>
+   <station gearId="91314">
+    <stop startdate="2015-01-27" module="2">782</stop>
+   </station>
+   <station gearId="91096">
+    <stop startdate="2015-06-25" module="2">783</stop>
+   </station>
+   <station gearId="58574">
+    <stop startdate="2014-05-05" module="2">784</stop>
+   </station>
+   <station gearId="61812">
+    <stop startdate="2014-05-05" module="2">785</stop>
+   </station>
+   <station gearId="61814">
+    <stop startdate="2014-05-05" expDate="2017-06-28" module="2">786</stop>
+   </station>
+   <station gearId="60179">
+    <stop startdate="2014-05-05" module="2">787</stop>
+   </station>
+   <station gearId="58646">
+    <stop startdate="2014-05-05" module="2">788</stop>
+   </station>
+   <station gearId="64549">
+    <stop startdate="2014-05-05" module="2">789</stop>
+   </station>
+   <station gearId="64241">
+    <stop startdate="2014-05-05" module="2">790</stop>
+   </station>
+   <station gearId="91505">
+    <stop startdate="2016-09-12" module="2">791</stop>
+   </station>
+   <station gearId="58780">
+    <stop startdate="2014-05-05" module="2">792</stop>
+   </station>
+   <station gearId="58718">
+    <stop startdate="2014-05-05" module="2">793</stop>
+   </station>
+   <station gearId="71799">
+    <stop startdate="2014-05-05" module="2">794</stop>
+   </station>
+   <station gearId="76774">
+    <stop startdate="2014-05-05" module="2">795</stop>
+   </station>
+   <station gearId="90222">
+    <stop startdate="2014-09-17" module="2">796</stop>
+   </station>
+   <station gearId="83230">
+    <stop startdate="2014-09-17" module="2">797</stop>
+   </station>
+   <station gearId="90038">
+    <stop startdate="2014-09-17" module="2">798</stop>
+   </station>
+   <station gearId="45542">
+    <stop startdate="2014-05-05" module="2">799</stop>
+   </station>
+   <station gearId="79680">
+    <stop startdate="2014-09-17" module="2">800</stop>
+   </station>
+   <station gearId="79605">
+    <stop startdate="2014-09-17" module="2">801</stop>
+   </station>
+   <station gearId="84175">
+    <stop startdate="2014-12-16" module="2">802</stop>
+   </station>
+   <station gearId="65025">
+    <stop startdate="2014-05-05" module="2">803</stop>
+   </station>
+   <station gearId="90898">
+    <stop startdate="2017-01-20" module="2">804</stop>
+   </station>
+   <station gearId="99665">
+    <stop startdate="2017-01-20" expDate="2017-06-12" module="2">805</stop>
+   </station>
+   <station gearId="48639">
+    <stop startdate="2014-05-05" module="2">806</stop>
+   </station>
+   <station gearId="69061">
+    <stop startdate="2016-09-27" module="2">807</stop>
+   </station>
+   <station gearId="66880">
+    <stop startdate="2017-01-20" module="2">808</stop>
+   </station>
+   <station gearId="75220">
+    <stop startdate="2017-01-20" module="2">809</stop>
+   </station>
+   <station gearId="89740">
+    <stop startdate="2014-08-14" module="2">810</stop>
+   </station>
+   <station gearId="89714">
+    <stop startdate="2014-08-14" module="2">811</stop>
+   </station>
+   <station gearId="68796">
+    <stop startdate="2014-05-05" module="2">812</stop>
+   </station>
+   <station gearId="59250">
+    <stop startdate="2014-05-05" module="2">813</stop>
+   </station>
+   <station gearId="82453">
+    <stop startdate="2017-01-20" module="2">814</stop>
+   </station>
+   <station gearId="59976">
+    <stop startdate="2014-05-05" module="2">815</stop>
+   </station>
+   <station gearId="60696">
+    <stop startdate="2014-05-05" module="2">816</stop>
+   </station>
+   <station gearId="82705">
+    <stop startdate="2014-05-05" module="2">817</stop>
+   </station>
+   <station gearId="58690">
+    <stop startdate="2014-05-05" module="2">818</stop>
+   </station>
+   <station gearId="76955">
+    <stop startdate="2017-01-20" module="2">819</stop>
+    <stop startdate="2017-01-20" module="2">894</stop>
+   </station>
+   <station gearId="58321">
+    <stop startdate="2014-05-05" module="2">821</stop>
+   </station>
+   <station gearId="45399">
+    <stop startdate="2014-05-05" module="2">822</stop>
+   </station>
+   <station gearId="60316">
+    <stop startdate="2014-05-05" module="2">824</stop>
+   </station>
+   <station gearId="91071">
+    <stop startdate="2016-07-12" module="2">828</stop>
+   </station>
+   <station gearId="91588">
+    <stop startdate="2015-09-25" module="2">829</stop>
+   </station>
+   <station gearId="83098">
+    <stop startdate="2017-01-20" module="2">830</stop>
+   </station>
+   <station gearId="66310">
+    <stop startdate="2015-05-08" module="2">831</stop>
+   </station>
+   <station gearId="46737">
+    <stop startdate="2014-05-05" module="2">832</stop>
+   </station>
+   <station gearId="90319">
+    <stop startdate="2014-09-18" module="2">834</stop>
+   </station>
+   <station gearId="61036">
+    <stop startdate="2014-05-05" module="2">835</stop>
+   </station>
+   <station gearId="79695">
+    <stop startdate="2014-09-17" module="2">836</stop>
+   </station>
+   <station gearId="79606">
+    <stop startdate="2014-09-17" module="2">837</stop>
+   </station>
+   <station gearId="80149">
+    <stop startdate="2014-09-17" module="2">838</stop>
+   </station>
+   <station gearId="80597">
+    <stop startdate="2014-05-05" module="2">840</stop>
+   </station>
+   <station gearId="59539">
+    <stop startdate="2014-05-05" module="2">841</stop>
+   </station>
+   <station gearId="90322">
+    <stop startdate="2014-09-18" module="2">842</stop>
+   </station>
+   <station gearId="68827">
+    <stop startdate="2014-05-05" module="2">843</stop>
+   </station>
+   <station gearId="66379">
+    <stop startdate="2014-05-05" module="2">844</stop>
+   </station>
+   <station gearId="88813">
+    <stop startdate="2014-09-17" module="2">845</stop>
+   </station>
+   <station gearId="90315">
+    <stop startdate="2014-09-18" module="2">846</stop>
+   </station>
+   <station gearId="59186">
+    <stop startdate="2014-05-05" module="2">847</stop>
+   </station>
+   <station gearId="70522">
+    <stop startdate="2014-05-05" module="2">848</stop>
+   </station>
+   <station gearId="66268">
+    <stop startdate="2014-05-05" module="2">849</stop>
+   </station>
+   <station gearId="59615">
+    <stop startdate="2014-05-05" module="2">850</stop>
+   </station>
+   <station gearId="60048">
+    <stop startdate="2014-05-05" module="2">851</stop>
+   </station>
+   <station gearId="60006">
+    <stop startdate="2014-05-05" module="2">852</stop>
+   </station>
+   <station gearId="74885">
+    <stop startdate="2014-05-05" module="2">853</stop>
+   </station>
+   <station gearId="59684">
+    <stop startdate="2014-05-05" module="2">854</stop>
+   </station>
+   <station gearId="59432">
+    <stop startdate="2014-05-05" module="2">855</stop>
+   </station>
+   <station gearId="70225">
+    <stop startdate="2014-05-05" module="2">856</stop>
+   </station>
+   <station gearId="82654">
+    <stop startdate="2014-05-05" module="2">857</stop>
+   </station>
+   <station gearId="68385">
+    <stop startdate="2014-05-05" module="2">858</stop>
+   </station>
+   <station gearId="71280">
+    <stop startdate="2014-05-05" module="2">859</stop>
+   </station>
+   <station gearId="70253">
+    <stop startdate="2014-05-05" module="2">860</stop>
+   </station>
+   <station gearId="64312">
+    <stop startdate="2014-05-05" module="2">861</stop>
+   </station>
+   <station gearId="63236">
+    <stop startdate="2014-05-05" module="2">862</stop>
+   </station>
+   <station gearId="61960">
+    <stop startdate="2014-05-05" module="2">863</stop>
+   </station>
+   <station gearId="55887">
+    <stop startdate="2014-05-05" module="2">864</stop>
+   </station>
+   <station gearId="67164">
+    <stop startdate="2014-05-05" module="2">865</stop>
+   </station>
+   <station gearId="82773">
+    <stop startdate="2014-05-05" module="2">866</stop>
+   </station>
+   <station gearId="63717">
+    <stop startdate="2015-10-20" module="2">867</stop>
+   </station>
+   <station gearId="59440">
+    <stop startdate="2014-05-05" module="2">868</stop>
+   </station>
+   <station gearId="82892">
+    <stop startdate="2014-05-05" module="2">869</stop>
+   </station>
+   <station gearId="87001">
+    <stop startdate="2014-05-05" module="2">870</stop>
+   </station>
+   <station gearId="60046">
+    <stop startdate="2014-05-05" module="2">871</stop>
+   </station>
+   <station gearId="79696">
+    <stop startdate="2014-09-17" module="2">872</stop>
+   </station>
+   <station gearId="79692">
+    <stop startdate="2014-09-17" module="2">873</stop>
+   </station>
+   <station gearId="60964">
+    <stop startdate="2014-05-05" module="2">874</stop>
+   </station>
+   <station gearId="75077">
+    <stop startdate="2014-05-05" module="2">875</stop>
+   </station>
+   <station gearId="79607">
+    <stop startdate="2014-09-17" module="2">876</stop>
+   </station>
+   <station gearId="89078">
+    <stop startdate="2014-07-29" module="2">877</stop>
+   </station>
+   <station gearId="68367">
+    <stop startdate="2014-07-29" module="2">878</stop>
+   </station>
+   <station gearId="72189">
+    <stop startdate="2014-05-05" module="2">879</stop>
+   </station>
+   <station gearId="68049">
+    <stop startdate="2014-05-05" module="2">880</stop>
+   </station>
+   <station gearId="77033">
+    <stop startdate="2014-05-05" module="2">881</stop>
+   </station>
+   <station gearId="71914">
+    <stop startdate="2014-05-05" module="2">882</stop>
+   </station>
+   <station gearId="73882">
+    <stop startdate="2014-05-05" module="2">883</stop>
+   </station>
+   <station gearId="83174">
+    <stop startdate="2014-05-05" module="2">884</stop>
+   </station>
+   <station gearId="72123">
+    <stop startdate="2014-05-05" module="2">885</stop>
+   </station>
+   <station gearId="901">
+    <stop startdate="2014-07-29" module="2">886</stop>
+   </station>
+   <station gearId="87167">
+    <stop startdate="2014-05-05" module="2">887</stop>
+   </station>
+   <station gearId="88155">
+    <stop startdate="2014-07-29" module="2">888</stop>
+   </station>
+   <station gearId="58550">
+    <stop startdate="2014-05-05" module="2">889</stop>
+   </station>
+   <station gearId="80621">
+    <stop startdate="2014-07-29" module="2">890</stop>
+   </station>
+   <station gearId="87000">
+    <stop startdate="2014-05-05" module="2">891</stop>
+   </station>
+   <station gearId="73554">
+    <stop startdate="2014-05-05" module="2">892</stop>
+   </station>
+   <station gearId="82809">
+    <stop startdate="2014-07-29" module="2">893</stop>
+   </station>
+   <station gearId="79610">
+    <stop startdate="2014-07-29" module="2">896</stop>
+   </station>
+   <station gearId="89852">
+    <stop startdate="2014-07-29" module="2">897</stop>
+   </station>
+   <station gearId="90139">
+    <stop startdate="2014-09-17" module="2">898</stop>
+   </station>
+   <station gearId="89507">
+    <stop startdate="2014-07-29" module="2">899</stop>
+   </station>
+   <station gearId="19313">
+    <stop startdate="2014-05-05" module="5">903</stop>
+   </station>
+   <station gearId="19346">
+    <stop startdate="2014-05-05" module="5">904</stop>
+   </station>
+   <station gearId="76302">
+    <stop startdate="2014-05-05" module="5">905</stop>
+   </station>
+   <station gearId="19332">
+    <stop startdate="2014-05-05" module="5">906</stop>
+   </station>
+   <station gearId="26230">
+    <stop startdate="2014-05-05" module="5">907</stop>
+   </station>
+   <station gearId="24378">
+    <stop startdate="2014-05-05" module="5">908</stop>
+   </station>
+   <station gearId="19339">
+    <stop startdate="2014-05-05" module="5">909</stop>
+   </station>
+   <station gearId="26232">
+    <stop startdate="2014-05-05" module="5">910</stop>
+   </station>
+   <station gearId="19344">
+    <stop startdate="2014-05-05" module="5">911</stop>
+   </station>
+   <station gearId="26250">
+    <stop startdate="2014-05-05" module="5">912</stop>
+   </station>
+   <station gearId="26229">
+    <stop startdate="2014-05-05" module="5">913</stop>
+   </station>
+   <station gearId="26221">
+    <stop startdate="2014-05-05" module="5">914</stop>
+   </station>
+   <station gearId="19312">
+    <stop startdate="2014-05-05" module="5">915</stop>
+   </station>
+   <station gearId="31030">
+    <stop startdate="2014-05-05" module="5">916</stop>
+   </station>
+   <station gearId="19310">
+    <stop startdate="2014-05-05" module="5">917</stop>
+   </station>
+   <station gearId="19142">
+    <stop startdate="2014-05-05" module="5">918</stop>
+   </station>
+   <station gearId="31029">
+    <stop startdate="2014-05-05" module="5">919</stop>
+   </station>
+   <station gearId="19311">
+    <stop startdate="2014-05-05" module="5">920</stop>
+   </station>
+   <station gearId="19315">
+    <stop startdate="2014-05-05" module="5">921</stop>
+   </station>
+   <station gearId="43335">
+    <stop startdate="2014-05-05" module="5">922</stop>
+   </station>
+   <station gearId="19328">
+    <stop startdate="2014-05-05" module="5">923</stop>
+   </station>
+   <station gearId="19327">
+    <stop startdate="2014-05-05" module="5">924</stop>
+   </station>
+   <station gearId="19330">
+    <stop startdate="2014-05-05" module="5">925</stop>
+   </station>
+   <station gearId="19329">
+    <stop startdate="2014-05-05" module="5">926</stop>
+   </station>
+   <station gearId="26228">
+    <stop startdate="2014-05-05" module="5">927</stop>
+   </station>
+   <station gearId="19336">
+    <stop startdate="2014-05-05" module="5">928</stop>
+   </station>
+   <station gearId="24405">
+    <stop startdate="2014-05-05" module="5">929</stop>
+   </station>
+   <station gearId="19326">
+    <stop startdate="2014-05-05" module="5">930</stop>
+   </station>
+   <station gearId="44059">
+    <stop startdate="2014-05-05" module="5">931</stop>
+   </station>
+   <station gearId="19325">
+    <stop startdate="2014-05-05" module="5">932</stop>
+   </station>
+   <station gearId="26248">
+    <stop startdate="2014-05-05" module="5">933</stop>
+   </station>
+   <station gearId="19342">
+    <stop startdate="2014-05-05" module="5">934</stop>
+   </station>
+   <station gearId="19319">
+    <stop startdate="2014-05-05" module="5">935</stop>
+   </station>
+   <station gearId="19324">
+    <stop startdate="2014-05-05" module="5">936</stop>
+   </station>
+   <station gearId="24380">
+    <stop startdate="2014-05-05" module="5">937</stop>
+   </station>
+   <station gearId="24382">
+    <stop startdate="2014-05-05" module="5">938</stop>
+   </station>
+   <station gearId="19320">
+    <stop startdate="2014-05-05" module="5">939</stop>
+   </station>
+   <station gearId="19335">
+    <stop startdate="2014-05-05" module="5">940</stop>
+   </station>
+   <station gearId="19317">
+    <stop startdate="2014-05-05" module="5">941</stop>
+   </station>
+   <station gearId="31028">
+    <stop startdate="2014-05-05" module="5">942</stop>
+   </station>
+   <station gearId="19362">
+    <stop startdate="2014-05-05" module="5">943</stop>
+   </station>
+   <station gearId="19357">
+    <stop startdate="2014-05-05" module="5">944</stop>
+   </station>
+   <station gearId="19341">
+    <stop startdate="2014-05-05" module="5">945</stop>
+   </station>
+   <station gearId="83184">
+    <stop startdate="2014-05-05" module="5">946</stop>
+   </station>
+   <station gearId="83186">
+    <stop startdate="2014-05-05" module="5">947</stop>
+   </station>
+   <station gearId="83197">
+    <stop startdate="2014-05-05" module="5">948</stop>
+   </station>
+   <station gearId="14782">
+    <stop startdate="2014-05-05" module="4">950</stop>
+   </station>
+   <station gearId="11211">
+    <stop startdate="2017-01-20" module="4">951</stop>
+   </station>
+   <station gearId="16611">
+    <stop startdate="2017-01-20" module="4">953</stop>
+   </station>
+   <station gearId="12504">
+    <stop startdate="2014-05-05" module="4">957</stop>
+   </station>
+   <station gearId="44076">
+    <stop startdate="2014-05-05" module="4">958</stop>
+   </station>
+   <station gearId="68537">
+    <stop startdate="2014-12-09" module="3">964</stop>
+   </station>
+   <station gearId="76898">
+    <stop startdate="2014-12-09" module="3">965</stop>
+   </station>
+   <station gearId="54335">
+    <stop startdate="2014-12-09" module="3">966</stop>
+   </station>
+   <station gearId="31809">
+    <stop startdate="2014-05-05" module="4">967</stop>
+   </station>
+   <station gearId="76406">
+    <stop startdate="2014-12-09" module="3">968</stop>
+   </station>
+  </lineup>
+  <asServed>
+   <a>
+    <community>Columbus</community>
+    <county code="11215" size="B">Muscogee</county>
+    <s>GA</s>
+   </a>
+   <a>
+    <community>Cusseta</community>
+    <county code="02081" size="C">Lee</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Lafayette</community>
+    <county code="02017" size="D">Chambers</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Lanett</community>
+    <county code="02017" size="D">Chambers</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Salem</community>
+    <county code="02081" size="C">Lee</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>Valley</community>
+    <county code="02017" size="D">Chambers</county>
+    <s>AL</s>
+   </a>
+   <a>
+    <community>West Point</community>
+    <county code="11285" size="C">Troup</county>
+    <s>GA</s>
+   </a>
+  </asServed>
+ </example_head>
+</example>
